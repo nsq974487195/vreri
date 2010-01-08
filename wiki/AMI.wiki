@@ -28,7 +28,7 @@ Please add:
  * Consultants: 
 
 ==Documentation==
- * [Original Bid]
+ * [http://vreri.googlecode.com/files/Bid04%20AMI.pdf Original Bid]
  * Code Repository: TBC - Link 
  * Technical Documentation: TBC
  * End User Documentation: TBC 
