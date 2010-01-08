@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Theme-Resourcemgt,Theme-Experimentation,Theme-MgtnAdmin
+#labels project,Status-Incomplete,Theme-Resourcemgt,Theme-Experimentation,Theme-MgtnAdmin,Call-VRERI
 =gMan=
 _everyday research in the humanities deployed on research infrastructures_
 
