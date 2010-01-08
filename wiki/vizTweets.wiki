@@ -22,7 +22,7 @@ means and the mechanisms for what Drew Baker describes as:
 _“a new way of debating and using data artefacts within visualizations”_
 
 -PROJECT Please add: 
-* Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+ * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
  * Questions this project answers (end user problems it solves): 
   * User Question (what itch does it scratch): 
   * Community Question (how does this change the way things were done):_
