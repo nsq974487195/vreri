@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Theme-Resourcemgt,Theme-Experimentation,Theme-CommsnColl,Theme-MgtnAdmin
+#labels project,Status-Incomplete,Theme-Resourcemgt,Theme-Experimentation,Theme-CommsnColl,Theme-MgtnAdmin,Call-VRERI
 =MEGStream=
 _Streamlining the processing of brain research data_
 
@@ -45,4 +45,3 @@ Please add:
  * Analytics Engine: TBC 
  * Project Website: TBC
  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
-
