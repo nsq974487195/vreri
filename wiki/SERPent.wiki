@@ -1,0 +1,62 @@
+#labels project,Status-Incomplete,Call-VRERI,Theme-Resourcemgt,Theme-CommsnColl,Theme-MgtnAdmin
+=SERPent=
+_Secure Epidemiology Research Platform_
+
+NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /FvT
+
+==Project Summary==
+The aim of this project is to develop a metadata catalogue for epidemiology and public health research studies to support 
+the documentation, preservation, discovery, access, and use of the underlying data. The proposal leverages on the Data Documentation 
+Initiative (DDI) metadata specification and underlying industry standard XML technologies, in alignment with national and international recommendations and best practices. The DDI allows for the capture of a wide range of information, from high level study overview to detailed variable level description, and can maintain linkages to reference documentation or analytical research papers. This will greatly facilitate the publication of information on the web and the exchange of metadata with other agencies. The standards based approach will also minimize the overall cost and effort by allowing for the reuse of existing tools.
+The core project management team will work closely with researchers on selected use cases, representative of research studies within UCL, to document the data and build the initial catalogue. A small amount of software will need to be developed to allow for the delivery of the metadata in a web-enabled, browsable and searchable form, and for the production of customized reports. It is however anticipated that much of this software can be extended from existing open source projects in the field.
+The project will benefit from the support of the UK Data Archive and interaction with STFC.
+
+External consultancy services from Metadata Technology Ltd will be employed to assist with:
+ * Initial scoping and requirements assessment
+ * Training and guidance on metadata preparation and the use of DDI based tools
+ * General system design and development
+
+Deliverables and outcomes include:
+ * the adoption of a common framework across the UCL Faculty of Biomedical Sciences for metadata management & exchange;
+ * the creation of a metadata catalogue designed to accommodate the needs of secure data enclave services;
+ * the integration of DDI based toolkit for the documentation of studies;
+ * the development of training materials and guidelines to promote wider use of statistical metadata standards in support of effective metadata exchange;
+ * the availability of DDI documented studies for selected use cases;
+ * wide dissemination of the lessons learned in metadata management of complex and multidimensional public health datasets;
+ * promotion of transparent information governance arrangements to inform all stakeholders;
+ * an effective network of database managers working in epidemiology and public health at UCL.
+
+Please add: 
+ * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): Knowledge repositories search and visualisation tools
+ * Questions this project answers (end user problems it solves): 
+  *User Question (what itch does it scratch): 
+  *Community Question (how does this change the way things were done)
+
+==Project Details==
+ * Host Institution: Institute of Child Health, University College London
+ * VRERI/Strands:  Theme-Resourcemgt / Theme-CommsnColl / Themes-MgtnAdmin
+ * Duration: 9 months
+ * Start Date: 18/01/2010
+ * End Date: 17/10/2010
+ * Amount Awarded to Project: £44,971
+
+==Project Team==
+ * Product Owner: Dr Tito Castillo, t.castillo@ich.ucl.ac.uk, 020 7905 2146
+ * Developer: 
+ * Admin: 
+ * Partners: 
+  * Rachel Knowles, Epidemiologist, UK Collaborative Study of Congenital Heart Defects, UCL
+  * Pat Tookey, Epidemiologist, National Study of HIV in Pregnancy and Childhood, UCL
+  * Aida Sanchez, Data Manager, Whitehall II Study, Epidemiology & Public Health, UCL
+  * Spiros Denaxas, Data Manager, Cardiovascular disease research Linking Bespoke studies and Electronic Health records consortium and the Optimizing Management of Angina study, Epidemiology & Public Health, UCL
+  * Andy Ryan, Data Manager, United Kingdom Collaborative Trial of Ovarian Cancer Screening, Gynaecological Cancer Research Centre, UCL
+  * Pascal Heus, External Consultant, Metadata Technology Ltd
+ * Consultants: 
+
+==Documentation==
+ * Code Repository: TBC - Link 
+ * Technical Documentation: TBC
+ * End User Documentation: TBC 
+ * Analytics Engine: TBC 
+ * Project Website: TBC
+ * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
