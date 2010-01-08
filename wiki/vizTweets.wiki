@@ -1,8 +1,8 @@
 #labels project,Status-Incomplete,Theme-Resourcemgt,Theme-Experimentation,Theme-CommsnColl,Call-VRERI
 =vizTweets=
-_ a new way of debating and using data artefacts within visualizations _
+*_ a new way of debating and using data artefacts within visualizations *
 
-NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /FvT
+NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me._ /FvT
 
 ==Project Summary==
 *Abstracting and Sharing Information Visualization Over the Web* 
@@ -21,11 +21,11 @@ This solution is efficient, exciting, has been requested by the Information Visu
 means and the mechanisms for what Drew Baker describes as:
 _“a new way of debating and using data artefacts within visualizations”_
 
-Please add: 
+-PROJECT Please add: 
 * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): Knowledge repositories search and visualisation tools
  * Questions this project answers (end user problems it solves): 
   *User Question (what itch does it scratch): 
-  *Community Question (how does this change the way things were done): 
+  *Community Question (how does this change the way things were done):_
 
 ==Project Details==
  * Host Institution: City University London, giCentre, Department of Information Science,
@@ -43,6 +43,7 @@ Please add:
  * Consultants: 
 
 ==Documentation==
+ * [http://vreri.googlecode.com/files/Bid10%20vizTweets.pdf Original Bid]
  * Code Repository: TBC - Link 
  * Technical Documentation: TBC
  * End User Documentation: TBC 
