@@ -1,21 +1,11 @@
 #labels project,Status-Incomplete,Theme-Resourcemgt,Theme-Experimentation,Theme-CommsnColl,Theme-MgtnAdmin,Call-VRERI
-=MEGStream=
-_Streamlining the processing of brain research data_
+=AMI=
+_Natural user interface for Bench scientists_
 
-NOTE TO PROJECT ON THIS PAGE: 
-If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /FvT
+NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /FvT
 
 ==Project Summary==
-The Aston Brain Centre is home to the Wellcome Trust Laboratory for Magnetoencephalographic (MEG) studies and a number of research groups each with the aim of visualising brain function on a
-millisecond by millisecond time scale. These scans are not currently stored in a systematic way that enables them to be reused in new research projects or fully for clinical diagnosis. 
-
-The project will:
- * Build taverna workflows to automate the process of creating and analysing MEG images. This will provide a standard means of processing the data, improving its provenance and reducing the time needed to train new researchers and collaborators.
- * Embedding ICT into the research process by extending the use of portable technology such as netbooks and the use of VDI within the physical labs.
- * Providing a standard means of interacting with the data to support teaching, access by NHS staff and promote reproducible research.
- * The workflows will be published to JISC's myexperiment.org VRE and other neuroimaging research groups will be encouraged to use and enhance them. The workflows will also make it
-easier for other research groups in and beyond Aston to use the data in other research projects.
- * It is the intention to present these workflows and techniques in conferences and to publish them to the neuroimaging community to encourage re-use and continual improvement.
+This project will develop AMI, a prototype of a natural user interface system that allows bench scientists to interact with their experimental information at the fumehood, using innovative modes of communication appropriate to the lab setting, focusing on voice recognition, touch-screens and laser keyboards. We have a group of enthusiastic end-users who will guide our iterative development process through their feedback and requirements. Our exploratory work in this area shows that such an interface would be excitingly innovative and yet realistically achievable.
 
 Please add: 
  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): Knowledge repositories search and visualisation tools
@@ -24,21 +14,21 @@ Please add:
   *Community Question (how does this change the way things were done): 
 
 ==Project Details==
- * Host Institution: Aston Brain Centre, Information Systems Aston
- * VRERI/Strands:  Theme-Resourcemgt / Theme-Experimentation / Theme-CommsnColl / Theme-MgtnAdmin 
- * Duration: 6 months
- * Start Date: Jan 2010
- * End Date: July 2010
- * Amount Awarded to Project: £47950.77
+ * Host Institution: Cambridge University
+ * Duration: 9 months
+ * Start Date: Feb/2010
+ * End Date: Oct/2010
+ * Amount Awarded to Project: £73926
 
 ==Project Team==
- * Product Owner: Ian Holliday, i.e.holliday@aston.ac.uk, 0121 204 4064
- * Developer: TBC
- * Admin: TBC
- * Partners: TBC
- * Consultants: TBC
+ * Product Owner: Dr. Peter Murray-Rust, pm286@cam.ac.uk, 01223 76073
+ * Developer: 
+ * Admin: 
+ * Partners: 
+ * Consultants: 
 
 ==Documentation==
+ * [Original Bid]
  * Code Repository: TBC - Link 
  * Technical Documentation: TBC
  * End User Documentation: TBC 
