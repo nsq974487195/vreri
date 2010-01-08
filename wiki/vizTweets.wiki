@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Theme-Resourcemgt,Theme-Experimentation,Theme-CommsnColl
+#labels project,Status-Incomplete,Theme-Resourcemgt,Theme-Experimentation,Theme-CommsnColl,Call-VRERI
 =vizTweets=
 _ a new way of debating and using data artefacts within visualizations _
 
@@ -49,4 +49,3 @@ Please add:
  * Analytics Engine: TBC 
  * Project Website: TBC
  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
-
