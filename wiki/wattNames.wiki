@@ -1,5 +1,6 @@
-= WattNames=
-_ Case study and trial implementation to uniquely identify Heriot-Watt University researchers _
+#labels project,Theme-Resourcemgt,Theme-MgtnAdmin,Status-Incomplete
+=WattNames=
+_Case study and trial implementation to uniquely identify Heriot-Watt University researchers_
 
 NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me. /FvT
 
