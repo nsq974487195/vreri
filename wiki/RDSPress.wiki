@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Theme-CommsnColl,Theme-MgtnAdmin
+#labels project,Status-Incomplete,Theme-CommsnColl,Theme-MgtnAdmin,Call-VRERI
 =RDSPress =
 _a platform for the collaborative management of research degrees_
 
