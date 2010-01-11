@@ -2,6 +2,6 @@
 #labels Status-Complete
 
 Table of Contents for this Wiki
-    * [http://code.google.com/p/jiscri/w/list?q=label:project List of JISCRI Projects]
+    * [http://code.google.com/p/vreri/w/list?q=label:project List of VRERI Projects]
     * [ProjectDocumentation Project Documentation Requirements]
     * [http://feeds.feedburner.com/DailyNewsFeedJISCRI Aggregated Feed For All Project Blogs] 
