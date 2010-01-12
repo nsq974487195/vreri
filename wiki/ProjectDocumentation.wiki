@@ -74,7 +74,7 @@ The following topics make up the required Progress Posts (you can do these posts
 == 3. Final Project Sign-Off ==
 DEADLINE: OCTOBER 11TH 2010 (BUDGETS MUST BE APPROVED BY PROGRAMME MANAGERS SO PLEASE SUBMIT WITH TIME TO SPARE)
   # *Final Budget Template* (everyone must fill this out and have it approved by their programme manager)
-    * [http://code.google.com/p/VRERI/downloads/list?q=label:budget Budget spreadsheet templates listed here].
+    * [http://vreri.googlecode.com/files/Template%20%5BProjectTag%5D_Finalbudget_VRERI_JISC.xls Budget spreadsheet template listed here].
     * Please note that the final budget will be made open under FOI regulations so do not put any personal data in the budget, e.g. instead of listing names of people please list their generic 'central spine' role in the project: "project manager", "project developer", "consultant developer", etc.
   # *Final Sign-off Survey Form* (Your project is not officially closed until this form is completed in full.  The link to this form will be passed to you by your Programme Manager once you have had your final budget approved by them).
     * To complete the project you will need to fill out the 'final sign off survey' form.  This is the closing of your project and the feedback JISC requires to improve on rapid innovation the next time around.
