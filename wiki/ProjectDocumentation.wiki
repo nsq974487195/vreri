@@ -20,7 +20,7 @@ _There are three sets of documents you are required to complete during the cours
 Instructions and templates for these three sets of documentation are detailed below.
 
 == 1. Project Planning==
-  # *[http://spreadsheets.google.com/viewform?hl=en&formkey=cG84ZHFaX0d1TmY1UTJmZDAweHI5Vnc6MA.. Core Project Resources Form]* <- please fill out within first fortnight of the project.
+  # *[http://spreadsheets.google.com/viewform?formkey=dGd3QzNiQnFsZkE3bUZHb2cydkp4TFE6MA Core Project Resources Form]* <- please fill out within first fortnight of the project.
     * This form is gathering the key URIs in your project so that JISC can support you as effectively as possible in monitoring your project.  
     * For example by having all the project blog feeds we can aggregate them into a central feed so we can more effectively pass on news and developments as they occur to other JISC projects.  
     * This form is essential and needs to be filled out as soon as you have your staff, website/blog/wiki, code repository and project post feeds in place.
