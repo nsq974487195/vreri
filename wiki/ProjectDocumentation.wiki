@@ -1,5 +1,4 @@
-#labels Status-Incomplete
-
+#labels Status-Incomplete,Template
 = Introduction to Project Documentation =
 
 *This page lists the documentation VRERI projects are required to submit.*
