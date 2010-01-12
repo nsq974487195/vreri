@@ -1,9 +1,11 @@
 #labels Status-Incomplete
-*#summary This page lists the documentation VRERI projects are required to submit.*
+
+= Introduction to Project Documentation =
+
+*This page lists the documentation VRERI projects are required to submit.*
 
 _Please do acknowledge the reading of this document by leaving a comment at the end of it (in the comments section), your feedback on this process is greatly appreciated._
 
-= Introduction to Project Documentation =
 All JISC projects are *required* to complete documentation.  While we all know the labour involved in documentation, it is important to take the time to fill out the documentation in full.  Documentation is there to help spread best practice amongst our community and to help you to effectively plan the work you want to achieve. For the Rapid Innovation Programme we have attempted to scope all documentation so you can directly see the benefits that documentation has for yourself and for the community as a whole.
 
 In short, the 'Rapid Innovation' projects are of a different project species, and so we've changed the way documentation works so that it is lightweight and web-worthy.  Overall we hope it gets you writing documentation for one another as a community, rather than just to the JISC Executive.
