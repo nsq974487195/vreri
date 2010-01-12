@@ -1,5 +1,4 @@
 #summary This page is the Table of Contents for this wiki.
-#labels Status-Complete
 
 Table of Contents for this Wiki
     * [http://code.google.com/p/vreri/w/list?q=label:project List of VRERI Projects]
