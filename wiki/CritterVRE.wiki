@@ -15,10 +15,10 @@ All of the event data including the live annotation data becomes searchable usin
 
 This project proposes to aggregate and contextualise comments from Twitter for events, by harvesting and storing them directly within the CREW VRE database in addition to CREW’s in-built functionality allowing a still richer breadth and depth of annotations. Users will now also be able to see the comments in the contextof the exact part of the talk about which they were made. They will be able to search for parts of the presentation using the text within these comments, and then view the recording of the presentation from the point at which the relevant comment was made. The annotations will also be exposed to allow Google search to show results that replay the video from the point at which the annotation was indexed. Twitter annotations will also be harvested for GPS information allowing the location or locations of the event to be automatically obtained and displayed within CREW.
 
- * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): #CritterVRE creates automatic searchable links into recorded presentations using tweets so you don't have to watch the whole thing
+ * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): #CritterVRE creates automatic Google-searchable links into recorded presentations using tweets so you don't have to watch the whole thing
  * Questions this project answers (end user problems it solves): 
- * User Question (what itch does it scratch): 
- * Community Question (how does this change the way things were done): 
+   * User Question (what itch does it scratch): Avoids needing to use a special interface for adding annotations to recordings, and allows the finding of recordings from within Google search results.
+   * Community Question (how does this change the way things were done): Will make more annotations available within recordings, and will make recordings more accessible (as they can be searched from Google) and so more useful.
 
 ==Project Details==
  * Host Institution: University of Manchester, Research Computing Services (RCS),
