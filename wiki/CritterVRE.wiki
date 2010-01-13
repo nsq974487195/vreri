@@ -37,9 +37,10 @@ This project proposes to aggregate and contextualise comments from Twitter for e
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid25%20CritterVRE.pdf Original Bid]
- * Code Repository: TBC - Link 
- * Technical Documentation: TBC
- * End User Documentation: TBC 
+ * Code Repository: [http://code.google.com/p/crew/]
+ * Technical Documentation: [http://code.google.com/p/crew/w/list]
+ * End User Documentation: [http://code.google.com/p/crew/w/list]
  * Analytics Engine: TBC 
  * Project Website: TBC
- * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * XMPP Feed (twitter): n/a 
+ * RSS Feed From Project Blog: TBC
