@@ -26,9 +26,10 @@ _PROJECTS Please add:
  * Amount Awarded to Project: £ 52,280.81
 
 ==Project Team==
- * Product Owner: Mark Hedges, mark.hedges@kcl.ac.uk, 02078481970
- * Developer: 
- * Admin: 
+ * Project Director: Mark Hedges, mark.hedges@kcl.ac.uk, 02078481970
+ * Project Manager: Tobias Blanke, tobias.blanke@kcl.ac.uk
+ * Developer: Mike Priddy, michael.priddy@kcl.ac.uk
+ * Admin: Lydia Horstman, lydia.horstman@kcl.ac.uk
  * Partners: University of Strathclyde
  * Consultants: 
 
