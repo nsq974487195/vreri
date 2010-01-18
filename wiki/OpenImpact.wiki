@@ -10,10 +10,10 @@ funders, press etc) through an independent third party agency (a learned society
 British Computer Society) as an exemplar. 
 
 _PROJECTS Please add: 
- * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
- * Questions this project answers (end user problems it solves): 
-  *User Question (what itch does it scratch): 
-  *Community Question (how does this change the way things were done)_
+ * Twitter description: This project helps researchers tell the public why their work is remarkable and indispensable.
+ * Questions this project answers: How can we piece together coherent stories about research impact and how can we do it without distracting researchers from doing research?
+  * User Question: How can I increase my profile and sell my expertise, to my colleagues, industry, funders and the public.
+  * Community Question: Can we build on recent initiatives to collect and manage research outputs (repositories) and research administration information (CRIS systems) to better market our researchcapacity and effectiveness to industry, government and the British taxpayer/voters?
 
 ==Project Details==
  * Host Institution: University of Southampton, School of Electronics and Computer Science
