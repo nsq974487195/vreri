@@ -23,9 +23,9 @@ British Computer Society) as an exemplar.
  * Amount Awarded to Project: £71,781
 
 ==Project Team==
- * Product Owner: Dr Leslie Carr, lac@ecs.soton.ac.uk, 023 80594479
- * Developer: 
- * Admin: 
+ * Product Owner: Dr Leslie Carr, lac@ecs.soton.ac.uk, http://users.ecs.soton.ac.uk/lac
+ * Developer: Patrick McSweeney, pm5@ecs.soton.ac.uk, http://users.ecs.soton.ac.uk/pm5
+ * Admin: Dr Mark Weal, mjw@ecs.soton.ac.uk, http://users.ecs.soton.ac.uk/mjw
  * Partners: BCS Academy of Computing
  * Consultants: 
 
@@ -36,4 +36,5 @@ British Computer Society) as an exemplar.
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
  * Project Website: TBC
- * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * XMPP Feed (twitter): n/a
+ * RSS Feed From Project Blog: http://blogs.ecs.soton.ac.uk/openimpact/feed/
