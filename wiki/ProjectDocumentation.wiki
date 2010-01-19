@@ -9,6 +9,13 @@ All JISC projects are *required* to complete documentation.  While we all know t
 
 In short, the 'Rapid Innovation' projects are of a different project species, and so we've changed the way documentation works so that it is lightweight and web-worthy.  Overall we hope it gets you writing documentation for one another as a community, rather than just to the JISC Executive.
 
+*ProjectTags/ProgrammeTags* 
+In the original call all projects were asked to give their proposed projects a name that could be used as a tag. This ProjectTag will be used to track all your work. So it is very important to use this tag on all of your tweets, comments, posts and documents in this environment. 
+
+Additionally there is a Programmetag #vreri which you should use for all your correspondence regarding this programme and its projects. the tag #jiscri can also be used as this refers to all Rapid Innovation projects withing JISC. 
+
+At the start of this programme we assigned each project their tag which you used in your proposals. This is the tag used in your original bid document and first wiki page. Please contact me as soon as possible in case this is incorrect or you would like to change. 
+
 Below is a list of documentation you will need to complete so as to fullfil your remit to the VRERI programme.
 
 = VRERI Project Documentation =
