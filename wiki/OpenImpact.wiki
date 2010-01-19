@@ -37,4 +37,6 @@ British Computer Society) as an exemplar.
  * Analytics Engine: TBC 
  * Project Website: TBC
  * XMPP Feed (twitter): n/a
+ * Twitter Feed: http://twitter.com/openimpact
+  * Hashtag: #oimpact
  * RSS Feed From Project Blog: http://blogs.ecs.soton.ac.uk/openimpact/feed/
