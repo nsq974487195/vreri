@@ -29,9 +29,10 @@ _PROJECTS Please add:
  * Project Director: Mark Hedges, mark.hedges@kcl.ac.uk, 02078481970
  * Project Manager: Tobias Blanke, tobias.blanke@kcl.ac.uk
  * Developer: Mike Priddy, michael.priddy@kcl.ac.uk
+ * Consultant: Fabio Simeoni, fabio.simeoni@cis.strath.ac.uk
+ * Consultant: Prof. Richard Connor, richard.connor@cis.strath.ac.uk
  * Admin: Lydia Horstman, lydia.horstman@kcl.ac.uk
  * Partners: University of Strathclyde
- * Consultants: 
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid20%20%20gMan.pdf Original Bid]
