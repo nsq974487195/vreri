@@ -11,10 +11,18 @@ and TEXTvre both pioneer the particular opportunities for data-driven humanities
 
 gMan will continue their work and look at how the UK and European Research infrastructures (RIs) can be exploited to support data-driven, collaborative research in the humanities. gMan will use the gCube environment, which allows virtual research communities to deploy VREs on demand using shared data and services on the European RI, and which supports typical community data management services and advanced, distributed search and browse services. gMan will look at new ways of integrating existing data resources for Classics and add services so that research work based on integrated resources can be published.
 
+==Twitter Description==
+
 _PROJECTS Please add: 
  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
- * Questions this project answers (end user problems it solves): 
-  *User Question (what itch does it scratch): 
+)_
+
+==User Question (what itch does it scratch)==
+The primary sources for much humanities research are found in archives that are geographically dispersed and contain material in a variety of formats. Working with this material is often a highly interactive and time-consuming process involving searching for documents or data relevant to the researcher’s interests, selecting from and interpreting them, making personal judgements and annotations based on a variety of evidence. The justification of the conclusions is based to a large extent on the provenance of the source material and on peer-comment from the relevant research community. While there are a number of environments that focus on specific research tasks in the humanities, there is none that addresses these more general-purpose activities. 
+
+==Community Question==
+
+_PROJECTS Please add: 
   *Community Question (how does this change the way things were done)_
 
 ==Project Details==
