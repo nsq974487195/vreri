@@ -48,10 +48,10 @@ The work will enable this particular community and the broader scientific commun
 
 ==Project Team==
  * Product Owner: Dr. Jason Dykes, jad7@soi.city.ac.uk, 020 7040 8906
- * Developer: 
+ * Developer: Dr. Jo Wood, Dr. Aidan Slingsby, Dr. Jason Dykes.
  * Admin: 
  * Partners: Willis Research Network
- * Consultants: 
+ * Consultants: None.
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid10%20vizTweets.pdf Original Bid]
