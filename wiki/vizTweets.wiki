@@ -24,11 +24,19 @@ _“a new way of debating and using data artefacts within visualizations”_
 
 -PROJECT Please add: 
  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
-Describing visualization succinctly enables researchers to log and share exploratory graphics by tweeting.
+#VRERI #VIZTWEETS Succinct textual descriptions of exploratory graphics enable researchers to log and share visualization in tweets.
 
   * Questions this project answers (end user problems it solves): 
+
+vizTweets allow those using graphics to document the process. This is an essential aspect of the exploratory visualization process and supports sharing, discussion, sense-making and explanation.
+
   * User Question (what itch does it scratch): 
+
+The project shows how this might be achieved in context of an interdisciplinary research network of scientists and analysts through an example language and applications that are able to produce and interpret this.
+
   * Community Question (how does this change the way things were done):_
+
+The work will enable this particular community and the broader scientific community to use text to collaborate through graphics and thus employ existing lightweight microblogging technologies that occur on many desktops as the mechanism for this communication. The extensible expression language will be developed in discussion with the scientific community and will allow some forms of visualization to be recorded. The code and example applications generated will demonstrate how tweets can be used to share visualization states.
 
 ==Project Details==
  * Host Institution: City University London, giCentre, Department of Information Science,
