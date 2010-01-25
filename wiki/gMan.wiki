@@ -6,16 +6,16 @@ _NOTE TO PROJECT ON THIS PAGE:
 If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me._ /FvT
 
 ==Project Summary==
-Building on the JISC funded projects TEXTvre and LaQuAT, gMan will address how VREs for everyday research in the humanities can be deployed on research infrastructures. LaQuAT
-and TEXTvre both pioneer the particular opportunities for data-driven humanities. 
 
-gMan will continue their work and look at how the UK and European Research infrastructures (RIs) can be exploited to support data-driven, collaborative research in the humanities. gMan will use the gCube environment, which allows virtual research communities to deploy VREs on demand using shared data and services on the European RI, and which supports typical community data management services and advanced, distributed search and browse services. gMan will look at new ways of integrating existing data resources for Classics and add services so that research work based on integrated resources can be published.
+gMan is addressing the creation of general-purpose VREs for the humanities, systems that move beyond the specific, focused tasks supported by many VREs, and instead provide services and environments that support everyday humanities research activities. 
+
+Specifically, we are investigating use cases related to the organisation and integration of the dispersed and heterogeneous information on which humanities research is often based, with a particular focus on unstructured documents and archival material. These use cases are highly interactive, interpretative and researcher-centric, addressing topics such as annotation environments and support for 'active reading' processes and scholarly dialogues. Our VRE will be targeted at and evaluated by researchers in the Classics and ancient history, although it aims to be applicable more generally.
+
+The gMan VRE is deployed within the gCube environment, which was developed as part of the EU-funded D4Science initiative. gCube allows VREs to be built on demand using shared European grid infrastructure resources. 
 
 ==Twitter Description==
 
-_PROJECTS Please add: 
- * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
-)_
+gMan will create a VRE for everyday humanities research, with a focus on unstructured and archival resources, built on gCube and the EU Grid.
 
 ==User Question (what itch does it scratch)==
 The primary sources for much humanities research are found in archives that are geographically dispersed and contain material in a variety of formats. Working with this material is often a highly interactive and time-consuming process involving searching for documents or data relevant to the researcher’s interests, selecting from and interpreting them, making personal judgements and annotations based on a variety of evidence. The justification of the conclusions is based to a large extent on the provenance of the source material and on peer-comment from the relevant research community. While there are a number of environments that focus on specific research tasks in the humanities, there is none that addresses these more general-purpose activities. 
