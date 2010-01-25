@@ -26,7 +26,7 @@ _“a new way of debating and using data artefacts within visualizations”_
  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
 Describing visualization succinctly enables researchers to log and share exploratory graphics by tweeting.
 
-* Questions this project answers (end user problems it solves): 
+  * Questions this project answers (end user problems it solves): 
   * User Question (what itch does it scratch): 
   * Community Question (how does this change the way things were done):_
 
