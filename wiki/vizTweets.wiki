@@ -10,7 +10,8 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
 vizTweets involves sharing textual abstractions of Information Visualization using the Web2.0 infrastructure by:
  * extending the HiVE visualization expression language to accommodate the needs of a broad set of stake-holders with whom we are in communication through formal and informal networks
  * deploying existing micro-blogging technologies to share HiVE statements that describe graphics and sequences of graphical operations
- * developing open re-usable clients and services that visualize key data sets, generate, interpret and transform HiVE and use miroblogging technologies to both log and access HiVE abstractions
+ * developing open re-usable clients and services that visualize key data sets and generate, interpret and transform HiVE statements
+ * using miroblogging technologies to both log, share and access HiVE abstractions
  * engaging with a broad user community to inform and disseminate this activity through established networks of stake-holders, academic meetings that span disciplines and micro-blogging.
 
 Broadening the scope of existing prototypes in this way and embedding them in accessible technologies will enable those using Information Visualization to ‘scratch’ a
@@ -23,7 +24,9 @@ _“a new way of debating and using data artefacts within visualizations”_
 
 -PROJECT Please add: 
  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
- * Questions this project answers (end user problems it solves): 
+Describing visualization succinctly enables researchers to log and share exploratory graphics by tweeting.
+
+* Questions this project answers (end user problems it solves): 
   * User Question (what itch does it scratch): 
   * Community Question (how does this change the way things were done):_
 
