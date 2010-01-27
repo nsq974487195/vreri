@@ -22,8 +22,7 @@ The primary sources for much humanities research are found in archives that are 
 
 ==Community Question==
 
-_PROJECTS Please add: 
-  *Community Question (how does this change the way things were done)_
+gMan will prototype an online, collaborative environment where researchers can organise (search, browse, select, annotate, ...) digital resources, in particular unstructured resources and online archives.
 
 ==Project Details==
  * Host Institution: King’s College London, Centre for e-Research
