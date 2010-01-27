@@ -2,9 +2,6 @@
 =gMan=
 *_everyday research in the humanities deployed on research infrastructures_*
 
-_NOTE TO PROJECT ON THIS PAGE: 
-If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me._ /FvT
-
 ==Project Summary==
 
 gMan is addressing the creation of general-purpose VREs for the humanities, systems that move beyond the specific, focused tasks supported by many VREs, and instead provide services and environments that support everyday humanities research activities. 
