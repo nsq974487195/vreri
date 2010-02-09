@@ -40,7 +40,7 @@ Management of epidemiological data is time consuming and difficult. This is part
 
 ==Project Team==
  * Product Owner: Dr Tito Castillo, t.castillo@ich.ucl.ac.uk, 020 7905 2146
- * Developer: 
+ * Developer: Anthony Thomas, athomas@ich.ucl.ac.uk, 020 7905 2212
  * Admin: 
  * Partners: 
   * Rachel Knowles, Epidemiologist, UK Collaborative Study of Congenital Heart Defects, UCL
@@ -48,8 +48,7 @@ Management of epidemiological data is time consuming and difficult. This is part
   * Aida Sanchez, Data Manager, Whitehall II Study, Epidemiology & Public Health, UCL
   * Spiros Denaxas, Data Manager, Cardiovascular disease research Linking Bespoke studies and Electronic Health records consortium and the Optimizing Management of Angina study, Epidemiology & Public Health, UCL
   * Andy Ryan, Data Manager, United Kingdom Collaborative Trial of Ovarian Cancer Screening, Gynaecological Cancer Research Centre, UCL
-  * Pascal Heus, External Consultant, Metadata Technology Ltd
- * Consultants: 
+ * Consultants: Pascal Heus, External Consultant, Metadata Technology Ltd
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid41%20SERPent.pdf Original Bid]
