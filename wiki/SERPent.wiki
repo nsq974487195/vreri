@@ -24,11 +24,11 @@ Deliverables and outcomes include:
  * promotion of transparent information governance arrangements to inform all stakeholders;
  * an effective network of database managers working in epidemiology and public health at UCL.
 
-_PROJECTS Please add: 
- * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
- * Questions this project answers (end user problems it solves): 
-  *User Question (what itch does it scratch): 
-  *Community Question (how does this change the way things were done):_
+==Short Description==
+Metadata catalogue for epidemiology research to support the documentation, preservation, 
+discovery, access, and use of underlying data.
+
+Management of epidemiological data is time consuming and difficult. This is particularly true when a wide range of data sources are combined or data is collected over a long period of time. Data managers have historically developed pragmatic solutions to assist them in this task however there are a set of emerging standards and tools that may help. This project aims to exemine the applicability of some of these tools and understand the practical obstacles that may exist to their wider adoption. 
 
 ==Project Details==
  * Host Institution: Institute of Child Health, University College London
