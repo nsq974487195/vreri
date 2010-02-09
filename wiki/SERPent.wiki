@@ -41,7 +41,7 @@ Management of epidemiological data is time consuming and difficult. This is part
 ==Project Team==
  * Product Owner: Dr Tito Castillo, t.castillo@ich.ucl.ac.uk, 020 7905 2146
  * Developer: Anthony Thomas, athomas@ich.ucl.ac.uk, 020 7905 2212
- * Admin: 
+ * Admin: Rich Hutchinson, r.hutchinson@ich.ucl.ac.uk, 020 7905 2155
  * Partners: 
   * Rachel Knowles, Epidemiologist, UK Collaborative Study of Congenital Heart Defects, UCL
   * Pat Tookey, Epidemiologist, National Study of HIV in Pregnancy and Childhood, UCL
