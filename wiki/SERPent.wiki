@@ -2,8 +2,6 @@
 =SERPent=
 *_Secure Epidemiology Research Platform_*
 
-_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me._ /FvT
-
 ==Project Summary==
 The aim of this project is to develop a metadata catalogue for epidemiology and public health research studies to support the documentation, preservation, discovery, access, and use of the underlying data. The proposal leverages on the Data Documentation 
 Initiative (DDI) metadata specification and underlying industry standard XML technologies, in alignment with national and international recommendations and best practices. The DDI allows for the capture of a wide range of information, from high level study overview to detailed variable level description, and can maintain linkages to reference documentation or analytical research papers. This will greatly facilitate the publication of information on the web and the exchange of metadata with other agencies. The standards based approach will also minimize the overall cost and effort by allowing for the reuse of existing tools.
