@@ -28,7 +28,8 @@ Deliverables and outcomes include:
 Metadata catalogue for epidemiology research to support the documentation, preservation, 
 discovery, access, and use of underlying data.
 
-Management of epidemiological data is time consuming and difficult. This is particularly true when a wide range of data sources are combined or data is collected over a long period of time. Data managers have historically developed pragmatic solutions to assist them in this task however there are a set of emerging standards and tools that may help. This project aims to exemine the applicability of some of these tools and understand the practical obstacles that may exist to their wider adoption. 
+==Questions==
+Management of epidemiological data is time consuming and difficult. This is particularly true when a wide range of data sources are combined or data is collected over a long period of time. Data managers have historically developed pragmatic solutions to assist them in this task however there are a set of emerging standards and tools that may help. This project aims to examine the applicability of some of these tools and understand the practical obstacles that may exist to their wider adoption. In particular, DDI (the Data Documentation Initiative) is a standard that has been used successully for the management of social research surveys. Can DDI be applied to epidemiological datasets and are there any specific extensions or refinements that are needed?
 
 ==Project Details==
  * Host Institution: Institute of Child Health, University College London
