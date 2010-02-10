@@ -31,17 +31,14 @@ Will make more annotations available within recordings, and will make recordings
 
 ==Project Team==
  * Product Owner: Dr Andrew Rowley, Andrew.Rowley@manchester.ac.uk, 0161 275 0685
- * Developer: 
- * Admin: 
- * Partners: 
- * Consultants: 
+ * Developer: Dr Mike Jones, Mike.Jones@manchester.ac.uk
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid25%20CritterVRE.pdf Original Bid]
- * Code Repository: [http://code.google.com/p/crew/]
- * Technical Documentation: [http://code.google.com/p/crew/w/list]
- * End User Documentation: [http://code.google.com/p/crew/w/list]
+ * Code Repository: [http://vicovre.googlecode.com/]
+ * Technical Documentation: [http://vicovre.googlecode.com/]
+ * End User Documentation: [http://vicovre.googlecode.com/]
  * Analytics Engine: TBC 
- * Project Website: TBC
+ * Project Website: http://www.rcs.manchester.ac.uk/research/CritterVRE/
  * XMPP Feed (twitter): n/a 
- * RSS Feed From Project Blog: TBC
+ * RSS Feed From Project Blog: http://grace.rcs.manchester.ac.uk/vre3/?feed=rss2
