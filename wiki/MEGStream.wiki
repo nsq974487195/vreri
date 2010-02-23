@@ -18,7 +18,8 @@ Streamlining the processing of magnetic brain imaging data for research and medi
 *Questions this project answers*
 
 
-*User Question (what itch does it scratch)* 
+*User Question* 
+Can I use MEG in my research or clinical setting?
 
 *Community Question (how does this change the way things were done)*
 
