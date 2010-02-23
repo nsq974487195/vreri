@@ -12,15 +12,15 @@ The project will:
  * The workflows will be published to JISC's myexperiment.org VRE and other neuroimaging research groups will be encouraged to use and enhance them. The workflows will also make it easier for other research groups in and beyond Aston to use the data in other research projects.
  * It is the intention to present these workflows and techniques in conferences and to publish them to the neuroimaging community to encourage re-use and continual improvement.
 
-==Twitter description==
+*Twitter description*
 Streamlining the processing of magnetic brain imaging data for research and medicine using Taverna workflows
 
-==Questions this project answers==
+*Questions this project answers*
 
 
-==User Question (what itch does it scratch)== 
+*User Question (what itch does it scratch)* 
 
-==Community Question (how does this change the way things were done)==
+*Community Question (how does this change the way things were done)*
 
 ==Project Details==
  * Host Institution: Aston Brain Centre, Information Systems Aston
