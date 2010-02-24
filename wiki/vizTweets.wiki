@@ -56,6 +56,7 @@ The work will enable this particular community to use text to collaborate throug
  * Code Repository: http://code.google.com/p/viztweets/
  * Technical Documentation: http://code.google.com/p/viztweets/w/list
  * Bug Tracking: http://code.google.com/p/viztweets/issues/list
+ * Progress (issues and status) : http://code.google.com/p/viztweets/issues/list  
  * End User Documentation: http://code.google.com/p/viztweets/wiki/SoftwareDocumentation 
  * Analytics Engine: TBC 
  * Project Website: http://gicentre.org/vizTweets/
