@@ -7,7 +7,7 @@ _NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be
 ==Project Summary==
 This MILARQ Project proposal seeks JISC funds to enhance performance of the CLAROS Explorer VRE, to allow wider public access to a rich set of classical art resources from major European research centres, and incorporation of additional source data.
 
-CLAROS (Classical Art Research Online Services; http://www.clarosnet.org/) provides search and discovery services over datasets that have been integrated, using state-of-the-art Semantic Web technologies, from leading independent European research centres. The data web created from these datasets includes descriptions of classical art objects (pots, gems, statues, etc.) located in museums worldwide.
+CLAROS (Classical Art Research Online Services; http://www.clarosnet.org/) provides search and discovery services over datasets that have been integrated, using Semantic Web technologies, from leading independent European research centres. The data web created from these datasets includes descriptions of classical art objects (pots, gems, statues, etc.) located in museums worldwide.
 
 The intended outcome of this project is a robust and performant publicly accessible Virtual Research Environment, the CLAROS Explorer, to be used by academic researchers, educators, students and members of the public to access information about objects from classical antiquity, and their relationships with classical mythology.
 The software developments relate to Jena, an existing, widely used, open source Semantic Web data management platform. These will include creation of multiple indexes over the underlying RDF triple store, Jena TDB, and other optimizations relating to filter performance.
