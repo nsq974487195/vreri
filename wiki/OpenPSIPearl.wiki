@@ -2,8 +2,6 @@
 =OpenPSIPearl=
 *_combining Governmental administrative datasets_*
 
-_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me._ /FvT
-
 ==Project Summary==
 OpenPSIPearl is a collaboration between the University of Southampton (UoS), the UK Government, and the Office of Public Sector Information (OPSI) part of The National Archive and leading academic research groups with an interest in the use of UK government administrative datasets in combination with specifically provisioned survey data.
 
@@ -42,5 +40,5 @@ London, The Social Policy Research Unit,York University
  * Technical Documentation: TBC
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
- * Project Website: TBC
+ * Project Website: http://www.openpsi.org/
  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
