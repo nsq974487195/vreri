@@ -9,7 +9,7 @@ This OpenPSIPearl project will produce three deliverables;
  # a national scale exemplar of a 'linked data' research challenge to excite the UK research community. It will be grounded in a relevant research policy question of 'understanding the effect of positive activities and
 opportunities within the locality of UK schools['content aggregation'];
  # an understanding of how provision of UK government 'linked data' will effect the methods and best practice in research use of administrative data in combination with additional survey data [critique of methods] and;
- # sustained collaboration via an ongoing articulation on the needs of the UK Research community for, and provision by the Government of non-personl Public Sector Information using the previously JISC Rapid Innovation funded OpenPSIportal (http://www.openpsi.org/prototypeservice).
+ # sustained collaboration via an ongoing articulation on the needs of the UK Research community for, and provision by the Government of non-personl Public Sector Information using the previously JISC Rapid Innovation funded OpenPSIportal (http://www.openpsi.org/).
 
 
 _PROJECTS Please add: 
@@ -40,5 +40,5 @@ London, The Social Policy Research Unit,York University
  * Technical Documentation: TBC
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
- * Project Website: http://www.openpsi.org/
+ * Project Website: TBC
  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
