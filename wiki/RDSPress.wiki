@@ -2,8 +2,6 @@
 =RDSPress =
 *_a platform for the collaborative management of research degrees_*
 
-_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me._ /FvT
-
 ==Project Summary==
 RDSPress (Research Degree Student WordPress) will develop a platform for the ollaborative management of research degrees. 
 The platform will be built from WordPress and will be integrated into the Research Degree Framework at Coventry University. The platform will enable students, their supervisors and staff from the research unit to collaborate and communicate effectively no matter where any of them are based. Development of the platform will reduce the current dependency on paper systems, encourage the use of more flexible and richer means of communication, enable supervisors to track the activities and performance of their students more easily and promote good working practices.
