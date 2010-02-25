@@ -1,4 +1,4 @@
-#labels project,Theme-Resourcemgt,Theme-Experimentation,Theme-CommsnColl,Theme-MgtnAdmin,Call-VRERI,Status-Incomplete,MEG
+#labels project,Theme-Resourcemgt,Theme-Experimentation,Theme-CommsnColl,Theme-MgtnAdmin,Call-VRERI,Status-Incomplete
 =MEGStream=
 *_Streamlining the processing of MEG research data_*
 
