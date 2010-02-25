@@ -2,7 +2,6 @@
 =AMI=
 *_Natural user interface for bench scientists*
 
-NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me._ /FvT
 
 ==Project Summary==
 This project will develop AMI, a prototype of a natural user interface system that allows bench scientists to interact with their experimental information at the fumehood, using innovative modes of communication appropriate to the lab setting, focusing on voice recognition, touch-screens and laser keyboards. We have a group of enthusiastic end-users who will guide our iterative development process through their feedback and requirements. Our exploratory work in this area shows that such an interface would be excitingly innovative and yet realistically achievable.
