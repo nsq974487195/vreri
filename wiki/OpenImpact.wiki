@@ -2,8 +2,6 @@
 =OpenImpact=
 *_Collecting and Communicating Evidence of Research Impact_*
 
-_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me._ /FvT
-
 ==Project Summary==
 Open Impact is a project to help collect evidence of high impact research that has been undertaken in UK universities and to provide it to a range of stakeholders (government,
 funders, press etc) through an independent third party agency (a learned society). The project will use a specific discipline (Computer Science) mediated through a particular society (the
