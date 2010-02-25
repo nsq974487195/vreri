@@ -2,7 +2,6 @@
 =MILARQ=
 *_Improving Search and Discovery Performance over Combined Data_*
 
-_NOTE TO PROJECT ON THIS PAGE: If you see a correction/addition that needs to be made in this page please place edits in the comments section at the bottom of this page and I will change, please do not email me._ /FvT
 
 ==Project Summary==
 This MILARQ Project proposal seeks JISC funds to enhance performance of the CLAROS Explorer VRE, to allow wider public access to a rich set of classical art resources from major European research centres, and incorporation of additional source data.
