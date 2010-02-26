@@ -12,6 +12,9 @@ _ PROJECT Please add:
   *User Question (what itch does it scratch): 
   *Community Question (how does this change the way things were done):_
 
+==Video introduction==
+*Please find the 3 minute introduction to the Ami project, from the VRERI Kick-off meeting at: http://www.vimeo.com/9753847 *
+
 ==Project Details==
  * Host Institution: Cambridge University
  * Duration: 9 months
