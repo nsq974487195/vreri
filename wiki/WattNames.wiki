@@ -5,6 +5,9 @@
 ==Project Summary==
 Case study and trial implementation to uniquely identify Heriot-Watt University researchers with resolvable Uniform Resource Identifiers (URIs) to enable their reusability from the Names authority service project and other web applications 
 
+==Video introduction==
+*Please find the 3 minute introduction to the WattNames project, from the VRERI Kick-off meeting at: http://www.vimeo.com/groups/36018/videos/9753593 *
+
 _PROJECTS Please add: 
  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): 
  * Questions this project answers (end user problems it solves): 
