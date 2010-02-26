@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Call-VRERI,Theme-Resourcemgt,Theme-CommsnColl,Theme-Experimentation
+#labels project,Status-Incomplete,Call-VRERI,Theme-Resourcemgt,Theme-CommsnColl,Theme-Experimentation,BlogMyData
 =BlogMyData=
 *_Combined environment for Environmental Scientists_*
 
@@ -6,10 +6,10 @@
 This project will combine two existing systems to create a new Virtual Research Environment for environmental scientists. By combining the capabilities of an online environmental data visualization system with a sophisticated blogging and collaboration engine, we will rapidly create a new facility for scientists to collaborate on important data analysis tasks, focussing here on the diagnosis of the latest cutting-edge numerical simulations of the climate and oceans.
 
 _PROJECTS Please add: 
- * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+ * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): *!BlogMyData will allow environmental scientists to collaborate on the interpretation of cutting-edge climate and ocean simulations.*
  * Questions this project answers (end user problems it solves): 
-  *User Question (what itch does it scratch): 
-  *Community Question (how does this change the way things were done)_
+  * User Question (what itch does it scratch): *How can I work with my colleagues to interpret complex datasets, and how can I discover people with similar interests who can help with my problems?*
+  * Community Question (how does this change the way things were done): *Can we create significant new collaborative capability through a simple mashup of existing systems?*
 
 ==Project Details==
  * Host Institution: University of Reading, Environmental Systems Science Centre
@@ -21,16 +21,17 @@ _PROJECTS Please add:
 
 ==Project Team==
  * Product Owner: Dr J.D. Blower, j.d.blower@reading.ac.uk, 0118 378 5213
- * Developer: 
- * Admin: 
- * Partners: 
- * Consultants: 
+ * Developer: Adit Santokhee, Reading; Andrew Milsted, Southampton; 
+ * Admin: N/A
+ * Partners: Prof. Jeremy Frey, Southampton
+ * Consultants: N/A
 
 ==Documentation==
- * [http://vreri.googlecode.com/files/Bid33%20SocialGodiva.pdf Original Bid}
- * Code Repository: TBC - Link 
+ * [http://vreri.googlecode.com/files/Bid33%20BlogMyData.pdf Original Bid]
+ * Code Repository: Code will be hosted in existing Subversion repositories for the systems that will be combined: Godiva2 (https://ncwms.svn.sourceforge.net/svnroot/ncwms/trunk) and the LabBlog (TBC)
  * Technical Documentation: TBC
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
- * Project Website: TBC
- * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * Project Website: http://www.blogmydata.org
+ * XMPP Feed (twitter): http://twitter.com/blogmydata
+ * RSS Feed From Project Blog: http://blogs.blogmydata.org/feeds/projectblog
