@@ -1,0 +1,49 @@
+#labels project,Status-Incomplete,Call-VRE3,Theme-Interoperability
+=ScolComms=
+*_Institutional scholarly comms with integrated publication sharing_*
+
+==Project Summary==
+[We wish to accelerate the development of the next generation VRE incorporating full scholarly networking and strong connections to critical research infrastructure, including repositories and research management systems.
+We will create a “one-click publication sharing” system, where a paper will be uploaded and simultaneously deposited into the institutional repository, text mined for keywords and coauthors to suggest additions to the social graph connections of the author, and also added to the online profile of the author.
+
+We will work with institutional stakeholders to connect this to the REF bibliometrics system in a way which allows academics to check and correct their publication record. The work of this project builds strongly upon existing systems and infrastructure at the University of Cambridge and expertise at CARET. Our Sakai VLE/VRE has grown from the original JISC VRE1 days, and supports learning functionality as well as research; it is used by over 3000 unique people per day in its function as the institutional VLE/VRE.
+
+We have a strong understanding of the issues of social networking in academia from the JISC Academic Networking project. The Teaching and Learning Research programme (TLRP) illustrates the benefits of a VRE to researchers, the need for networking to support a research career, and also demonstrates the feasibility of text mining of publications to extract metadata and create a social graph.
+
+CARET lead the VRE work for TLRP and continues to host the VRE, now funded by the British Educational Research Association (BERA), who place a real monetary value on the benefits the VRE brings to its members. The ESRC Early Career Researchers project at CARET is showing the benefits of academic networking to young researchers who are building their profiles and reputations. CARET is also involved in the design of DSpace2. ]
+
+_PROJECTS Please add: 
+ * A short description of each of the cases, described in the project,
+ * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+ * Questions this project answers (end user problems it solves): 
+  *User Question (what itch does it scratch): 
+  *Community Question (how does this change the way things were done)_
+
+==Project Introductions== 
+A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: 
+TBC
+
+==Project Details==
+ * Host Institution: University of Cambridge, CARET
+ * VRE3/Strands: Theme-Interoperability
+ * Duration: 24 months
+ * Start Date: 1 April 2009
+ * End Date: 31 March 2011
+ * Amount Awarded to Project: £xxx,xxx.00
+
+==Project Team==
+ * Product Owner: John Norman, john@caret.cam.ac.uk, office 1223 76367
+ * Developer: 
+ * Admin: 
+ * Partners: 
+ * Consultants: 
+
+==Documentation==
+ * [http://vreri.googlecode.com/files/XXX Project plan] _To be uploaded in Downloads by Project_
+ * Code Repository: TBC - Link 
+ * Technical Documentation: TBC
+ * End User Documentation: TBC 
+ * Analytics Engine: TBC 
+ * Project Website: TBC
+ * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * JISC website: http://www.jisc.ac.uk/whatwedo/programmes/vre/insscol.aspx
