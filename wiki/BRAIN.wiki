@@ -1,0 +1,46 @@
+#labels project,Status-Incomplete,Call-VRE3,Theme-Frameworks
+=BRAIN=
+*_Building Research and Innovation Networkst_*
+
+==Project Summary==
+[ This project aims to tackle a key challenge that faces Coventry University, which is also an increasingly important issue for the sector as a whole. This arises as institutions seek to diversify into activities outside traditional academic fields and the academic sector and require integrated research frameworks that can support this changed environment.
+
+Coventry University has identified a key gap in its provision for facilitating and supporting the diverse range of research activity it is involved in, particularly for cross-disciplinary and business and community related work, which is the strategic focus of the Institution. The project will create an integrating VRE framework to support a university-centred Research and Innovation Network and Community. It draws on the experience and outputs from the earlier phases of the VRE programme, being particularly inspired by the myExperiment project, and also incorporates emerging Web 2.0 and Cloud Computing technologies and methods, in an approach that could be termed “Research 2.0”.
+
+It is based on facilitating flexible, interacting, research communities, with personalisable services and tools for researchers, and includes using and developing innovative techniques and tools to help provide the underlying framework of support necessary, based on Semantic Web and Pattern Language approaches, which have been developed and applied as part of several previous projects. The scope of the work will include the whole University research community, but 4 key crossdisciplinary areas will be used as the initial focus for the development of pilots. The project will benefit the sector by providing an evaluated exemplar covering new areas identified as having key strategic significance for HE and society more generally, and will provide documented processes and methods, guidance to other institutions, and a set of innovative techniques and tools to support VRE implementation.] 
+
+_PROJECTS Please add: 
+ * A short description of each of the cases, described in the project,
+ * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+ * Questions this project answers (end user problems it solves): 
+  *User Question (what itch does it scratch): 
+  *Community Question (how does this change the way things were done)_
+
+==Project Introductions== 
+A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: 
+TBC
+
+==Project Details==
+ * Host Institution: Coventry University
+ * VRE3/Strands:  Theme-Frameworks 
+ * Duration: 24 months
+ * Start Date: 1 April 2009
+ * End Date: 31 March 2011
+ * Amount Awarded to Project: £xxx,xxx.00
+
+==Project Team==
+ * Product Owner: Mr. L.J . Hensman, j.hensman@coventry.ac.uk, office 02476 888789
+ * Developer: 
+ * Admin: 
+ * Partners: 
+ * Consultants: 
+
+==Documentation==
+ * [http://vreri.googlecode.com/files/XXX Project plan] _To be uploaded in Downloads by Project_
+ * Code Repository: TBC - Link 
+ * Technical Documentation: TBC
+ * End User Documentation: TBC 
+ * Analytics Engine: TBC 
+ * Project Website: TBC
+ * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * JISC website: http://www.jisc.ac.uk/whatwedo/programmes/vre/brain.aspx
