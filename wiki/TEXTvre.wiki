@@ -1,0 +1,49 @@
+#labels project,Status-Incomplete,Call-VRE3,Theme-Frameworks
+=TEXTvre=
+*_a complete VRE for the e-Humanities in textual studies by providing researchers with advanced services to process and analyse research texts_*
+
+==Project Summary==
+[The overall aim of TEXTvre is to support the complete lifecycle of research in e-Humanities textual studies by providing researchers with advanced services to process and analyse research texts that are held in formally managed, metadata-rich institutional repositories.
+
+The access and analysis of textual research data will be supported by annotation and retrieval technology and will provide services for every step in the digital research life cycle. TEXTvre will build upon the success of the German TextGrid project, a collaborative environment for textual studies and a cornerstone in the emerging German e-Humanities agenda.
+
+TEXTvre will adopt, evaluate and expand TextGrid solutions to UK community needs, broadening its community of practice, and bringing together key organisations in the domain of e-Humanities textual studies in the UK. TEXTvre will take pains to embed the VRE within the day-to-day research practices at the institution, and will integrate it fully with institutional repository and data management infrastructures. The project will also interoperate closely with national infrastructures, in the form of the NGS.] 
+
+_PROJECTS Please add: 
+ * A short description of each of the cases, described in the project,
+ * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+ * Questions this project answers (end user problems it solves): 
+  *User Question (what itch does it scratch): 
+  *Community Question (how does this change the way things were done)_
+
+==Project Introductions== 
+A 30 Second introduction at the INF11 Programme meeting @ Leicester University, July 2009, can be seen at: 
+http://www.youtube.com/user/JISCVRE#play/uploads/7/ZZ4_fbV-xdU (YouTube)
+
+A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: 
+TBC
+
+==Project Details==
+ * Host Institution: Kings College London
+ * VRE3/Strands:  Theme-Frameworks 
+ * Duration: 24 months
+ * Start Date: 1 April 2009
+ * End Date: 31 March 2011
+ * Amount Awarded to Project: £xxx,xxx.00
+
+==Project Team==
+ * Product Owner: Mark Hedges, mark.hedges@kcl.ac.uk, office 020 7848 1970 
+ * Developer: 
+ * Admin: 
+ * Partners: 
+ * Consultants: 
+
+==Documentation==
+ * [http://vreri.googlecode.com/files/XXX Project plan] _To be uploaded in Downloads by Project_
+ * Code Repository: TBC - Link 
+ * Technical Documentation: TBC
+ * End User Documentation: TBC 
+ * Analytics Engine: TBC 
+ * Project Website: TBC
+ * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * JISC website: http://www.jisc.ac.uk/whatwedo/programmes/vre/textvre.aspx
