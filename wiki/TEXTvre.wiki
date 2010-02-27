@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Call-VRE3,Theme-Frameworks
+#labels project,Status-Incomplete,Call-VRE3,Theme-Interoperability
 =TEXTvre=
 *_a complete VRE for the e-Humanities in textual studies by providing researchers with advanced services to process and analyse research texts_*
 
@@ -25,7 +25,7 @@ TBC
 
 ==Project Details==
  * Host Institution: Kings College London
- * VRE3/Strands:  Theme-Frameworks 
+ * VRE3/Strands:  Theme-Interoperability 
  * Duration: 24 months
  * Start Date: 1 April 2009
  * End Date: 31 March 2011
