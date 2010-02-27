@@ -1,0 +1,38 @@
+#labels project,Status-Incomplete,Call-VRE3,Theme-Tools
+=ViCoVRE=
+*_Summary_*
+
+==Project Summary==
+[ TBC ]
+
+==Project Introductions== 
+A 30 second introduction to the project given at the VRE3 kickoff meeting @Leicester,  August 2009, can be seen at: 
+TBC (Youtube)
+
+A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: 
+TBC
+
+==Project Details==
+ * Host Institution: Manchester University
+ * VRE3/Strands: Theme-Tools
+ * Duration: 6+4 months
+ * Start Date: 1 April 2009
+ * End Date: 31 March 2010 (TBC)
+ * Amount Awarded to Project: £xxx,xxx.00
+
+==Project Team==
+ * Product Owner: Andrew Rowley, XXX, XXX
+ * Developer: 
+ * Admin: 
+ * Partners: 
+ * Consultants: 
+
+==Documentation==
+ * [http://vreri.googlecode.com/files/XXX Project plan] _To be uploaded in Downloads by Project_
+ * Code Repository: TBC - Link 
+ * Technical Documentation: TBC
+ * End User Documentation: TBC 
+ * Analytics Engine: TBC 
+ * Project Website: TBC
+ * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * JISC website: http://www.jisc.ac.uk/whatwedo/programmes/vre/XXX.aspx
