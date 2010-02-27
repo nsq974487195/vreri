@@ -1,0 +1,50 @@
+#labels project,Status-Incomplete,Theme-Frameworks,Call-VRE3
+=IBBRE=
+*_Internet Based Behavioural Research Environment_*
+
+==Project Summary==
+[ This project will employ a VRE to enable behavioural scientists working within a variety of disciplines across the university to collaborate in sharing and reviewing components of internet-delivered interventions. We will analyse and describe how the VRE can be flexibly used to support collaborations within and outside the university.
+
+Behavioural interventions (BIs) – packages of advice and support for behaviour change – are arguably the most important methodology and technology employed by behavioural scientists for understanding and changing behaviour. Internet-Based BIs (IBBIs) are beginning to play a crucial role in the delivery of BIs. If IBBIs could be viewed and shared within a VRE this would allow wider research communities to greatly speed up the research cycle of producing intervention components and testing them using large, pooled datasets. We have confirmed that there is enthusiasm to collaborate in developing IBBIs; we are already collaborating with UCL on this project and after holding several workshops have developed a large network of potential collaborators from other universities from within the UK, Europe, and the USA.
+
+The challenge to the university is how best to support resource sharing, critical analysis, publishing, and peer review of IBBIs within these inter-disciplinary research groups and networks.
+The behavioural scientists want to be able to collaborate on the building of the IBBI, discuss the IBBI (peer review), securely make available the results of the IBBI to other behavioural scientists, allow others to use this anonymised data in meta-studies, and inform others of what worked or did not. In this project we intend to build on the JISC VRE funded projects ‘CORE’ and ‘myExperiment’.
+
+The target wider community nationally and internationally is represented by the e-social science, behavioural science, and VRE communities. The impact of this project will be in two main areas: the technology, and the user communities. Technology-wise the baseline comprises the CORE and myExperiment projects; we will be combining the experiences and technologies of these previous existing VRE projects. By completing this work we intend to extend this knowledge from the medical and science domains and apply it to the behavioural science domain.] 
+
+_PROJECTS Please add: 
+ * A short description of each of the cases, described in the project,
+ * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+ * Questions this project answers (end user problems it solves): 
+  *User Question (what itch does it scratch): 
+  *Community Question (how does this change the way things were done)_
+
+==Project Introductions== 
+
+A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: 
+TBC
+
+==Project Details==
+ * Host Institution: University   of Southampton  
+ * VRERI/Strands: Theme-Frameworks 
+ * Duration: 18 months
+ * Start Date: 1 July 2009
+ * End Date: 31 December 2010
+ * Amount Awarded to Project: £xxx,xxx.00
+
+==Project Team==
+ * Product Owner: Dr. Gary Wills, gbw@ecs.soton.ac.uk1, office 023 80593831
+ * Developer: 
+ * Admin: 
+ * Partners: 
+ * Consultants: 
+
+==Documentation==
+ * [http://vreri.googlecode.com/files/XXX Project plan] _To be uploaded by Project_
+ * Code Repository: TBC - Link 
+ * Technical Documentation: TBC
+ * End User Documentation: TBC 
+ * Analytics Engine: TBC 
+ * Project Website: TBC
+ * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * JISC website: http://www.jisc.ac.uk/whatwedo/programmes/vre/ibbre.aspx
