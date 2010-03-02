@@ -12,6 +12,10 @@ British Computer Society) as an exemplar.
  * User Question: How can I increase my profile and sell my expertise, to my colleagues, industry, funders and the public?
  * Community Question: Can we build on recent initiatives to collect and manage research outputs (repositories) and research administration information (CRIS systems) to better market our researchcapacity and effectiveness to industry, government and the British taxpayer/voters?
 
+==Video introduction==
+*Please find the 3 minute introduction to the XXX project, from the VRERI Kick-off meeting at: http://vimeo.com/9854503 *
+You can find the presentation in the Downloads section of this site. 
+
 ==Project Details==
  * Host Institution: University of Southampton, School of Electronics and Computer Science
  * VRERI/Strands:  Theme-Resourcemgt / Theme-BCE
