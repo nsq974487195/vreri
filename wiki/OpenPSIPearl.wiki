@@ -10,8 +10,12 @@ This OpenPSIPearl project will produce three deliverables;
  # an understanding of how provision of UK government 'linked data' will effect the methods and best practice in research use of administrative data in combination with additional survey data [critique of methods] and;
  # sustained collaboration via an ongoing articulation on the needs of the UK Research community for, and provision by the Government of non-personl Public Sector Information using the previously JISC Rapid Innovation funded OpenPSIportal (http://www.openpsi.org/).
 
+==Video introduction==
+*Please find the 3 minute introduction to the OpenPSIPearl project, from the VRERI Kick-off meeting at: http://vimeo.com/9854591 *
+You can find the presentation in the Downloads section of this site. 
 
- * Twitter description: Help researchers make best use of UK Government actions to make more data available as linked data on the web.
+==Twitter description==
+Help researchers make best use of UK Government actions to make more data available as linked data on the web.
 
 _PROJECTS Please add: 
 
