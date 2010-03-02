@@ -14,7 +14,7 @@ All of the event data including the live annotation data becomes searchable usin
 This project proposes to aggregate and contextualise comments from Twitter for events, by harvesting and storing them directly within the CREW VRE database in addition to CREW’s in-built functionality allowing a still richer breadth and depth of annotations. Users will now also be able to see the comments in the contextof the exact part of the talk about which they were made. They will be able to search for parts of the presentation using the text within these comments, and then view the recording of the presentation from the point at which the relevant comment was made. The annotations will also be exposed to allow Google search to show results that replay the video from the point at which the annotation was indexed. Twitter annotations will also be harvested for GPS information allowing the location or locations of the event to be automatically obtained and displayed within CREW.
 
 ==Video introduction==
-*Please find the 3 minute introduction to the XXX project, from the VRERI Kick-off meeting at: http://vimeo.com/9853945 *
+*Please find the 3 minute introduction to the CritterVRE project, from the VRERI Kick-off meeting at: http://vimeo.com/9853945 *
 
 == Twitter description ==
 #CritterVRE automatically creates Google-searchable links into video-recorded presentations using tweets
