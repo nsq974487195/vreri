@@ -15,8 +15,10 @@ The project will:
 *Twitter description*
 Streamlining the processing of magnetic brain imaging data for research and medicine using Taverna workflows
 
-*Questions this project answers*
+==Video introduction==
+*Please find the 3 minute introduction to the MEGStream project, from the VRERI Kick-off meeting at: http://vimeo.com/9854260 *
 
+==Questions this project answers==
 
 *User Question* 
 Can I use MEG in my research or clinical setting?
