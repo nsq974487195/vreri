@@ -20,6 +20,10 @@ Broadening the scope of existing prototypes in this way and embedding them in ac
 This solution is efficient, exciting, has been requested by the Information Visualization community and will be supported by the Willis Research Network. It will provide the means and the mechanisms for what Drew Baker describes as:
 _“a new way of debating and using data artefacts within visualizations”_
 
+==Video introduction==
+*Please find the 3 minute introduction to the XXX project, from the VRERI Kick-off meeting at: http://vimeo.com/9855135 *
+You can find the presentation in the Downloads section of this site.
+
 -PROJECT Please add: 
  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
 #VRERI #VIZTWEETS Record, share & (b)log analytical graphics with software that tweets succinct descriptions of the visualization process.
