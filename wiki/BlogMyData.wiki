@@ -6,7 +6,8 @@
 This project will combine two existing systems to create a new Virtual Research Environment for environmental scientists. By combining the capabilities of an online environmental data visualization system with a sophisticated blogging and collaboration engine, we will rapidly create a new facility for scientists to collaborate on important data analysis tasks, focussing here on the diagnosis of the latest cutting-edge numerical simulations of the climate and oceans.
 
 ==Video introduction==
-*Please find the 3 minute introduction to theBlogMyData project, from the VRERI Kick-off meeting at: http://vimeo.com/9853810 *
+*Please find the 3 minute introduction to theBlogMyData project, from the VRERI Kick-off meeting at: http://vimeo.com/9853810 *. 
+You can find the presentation in the Downloads section of this site. 
 
 _PROJECTS Please add: 
  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): *!BlogMyData will allow environmental scientists to collaborate on the interpretation of cutting-edge climate and ocean simulations.*
