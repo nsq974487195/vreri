@@ -14,6 +14,9 @@ _PROJECTS Please add:
   *User Question (what itch does it scratch): 
   *Community Question (how does this change the way things were done:_
 
+==Video introduction==
+*Please find the 3 minute introduction to the EMBRaCE project for the VRERI Kick-off meeting at: http://www.ictresearch.org/projects/embrace/embrace.html *
+
 ==Project Details==
  * Host Institution: Lancaster University, Lancaster University Management School
  * VRERI/Strands:  Theme-BCE
