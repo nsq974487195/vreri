@@ -39,8 +39,8 @@ Management of epidemiological data is time consuming and difficult. This is part
  * Host Institution: Institute of Child Health, University College London
  * VRERI/Strands:  Theme-Resourcemgt / Theme-CommsnColl / Themes-MgtnAdmin
  * Duration: 9 months
- * Start Date: 18/01/2010
- * End Date: 17/10/2010
+ * Start Date: 25/01/2010
+ * End Date: 24/10/2010
  * Amount Awarded to Project: £44,971
 
 ==Project Team==
