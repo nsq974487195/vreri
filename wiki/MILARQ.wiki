@@ -14,6 +14,10 @@ The software developments relate to Jena, an existing, widely used, open source 
 The project will run for 8 months from March 2010, employing 25%FTE of the developer who created the CLAROS data web, who will be involved in testing, deployment and evaluation, and engaging the services of Epimorphics Ltd on a consultancy basis for software development, to ensure that the improvements are created most efficiently by those who best know the Jena code base, and to ensure these improvements are suitable for integration into the open source code base and support on an ongoing basis, for the benefit of the entire Jena community that includes several other JISC projects. The
 Epimorphics Ltd consultancy services are being offered at a very substantial discount on their full commercial rate, equivalent to a contribution in kind to the project of £11,750, because of the broad benefits they see this project providing for the Jena community as a whole.
 
+==Video introduction==
+*Please find the 3 minute introduction to the MILARQ project, from the VRERI Kick-off meeting at: http://vimeo.com/9854385 *
+You can find the presentation in the Downloads section of this site. 
+
 _PROJECTS Please add: 
  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
  * Questions this project answers (end user problems it solves): 
