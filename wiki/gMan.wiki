@@ -14,6 +14,9 @@ The gMan VRE is deployed within the gCube environment, which was developed as pa
 
 gMan will create a VRE for everyday humanities research, with a focus on unstructured and archival resources, built on gCube and the EU Grid.
 
+==Video introduction==
+*Please find the 3 minute introduction to the gMan project, from the VRERI Kick-off meeting at: http://vimeo.com/9854128 *
+
 ==User Question (what itch does it scratch)==
 The primary sources for much humanities research are found in archives that are geographically dispersed and contain material in a variety of formats. Working with this material is often a highly interactive and time-consuming process involving searching for documents or data relevant to the researcher’s interests, selecting from and interpreting them, making personal judgements and annotations based on a variety of evidence. The justification of the conclusions is based to a large extent on the provenance of the source material and on peer-comment from the relevant research community. While there are a number of environments that focus on specific research tasks in the humanities, there is none that addresses these more general-purpose activities. 
 
