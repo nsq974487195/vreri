@@ -6,6 +6,10 @@
 This project will deliver a tool to improve the experience of finding and collaborating with fellow staff at the University of York. It will produce a mashup using the University's own Staff
 Directory, Delicious tags, Google Scholar and many other data-mined social media services.
 
+==Video introduction==
+*Please find the 3 minute introduction to the XXX project, from the VRERI Kick-off meeting at: http://vimeo.com/9854711 *
+You can find the presentation in the Downloads section of this site. 
+
 _PROJECTS Please add: 
  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
  * Questions this project answers (end user problems it solves): 
