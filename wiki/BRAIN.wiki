@@ -17,8 +17,7 @@ _PROJECTS Please add:
   *Community Question (how does this change the way things were done)_
 
 ==Project Introductions== 
-A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: 
-TBC
+A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: http://vimeo.com/9855264
 
 ==Project Details==
  * Host Institution: Coventry University
