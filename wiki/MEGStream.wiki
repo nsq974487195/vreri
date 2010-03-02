@@ -16,7 +16,8 @@ The project will:
 Streamlining the processing of magnetic brain imaging data for research and medicine using Taverna workflows
 
 ==Video introduction==
-*Please find the 3 minute introduction to the MEGStream project, from the VRERI Kick-off meeting at: http://vimeo.com/9854260 *
+*Please find the 3 minute introduction to the MEGStream project, from the VRERI Kick-off meeting at: http://vimeo.com/9854260 *.
+You can find the presentation in the Downloads section of this site. 
 
 ==Questions this project answers==
 
