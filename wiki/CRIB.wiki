@@ -19,8 +19,7 @@ _PROJECTS Please add:
   *Community Question (how does this change the way things were done)_
 
 ==Project Introductions== 
-A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: 
-TBC
+A 3 minute update on the project for the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: http://www.ictresearch.org/projects/crib/crib3.html
 
 ==Project Details==
  * Host Institution: Lancaster University
