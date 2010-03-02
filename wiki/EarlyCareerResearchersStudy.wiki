@@ -1,0 +1,15 @@
+#labels Status-Complete,Call-VRE3,Call-VRERI
+=Early Career Researcher Study=
+
+== Introduction ==
+This study was commissioned by JISC and performed by the University of Cambridge (CARET) and The Open University, to provide insights into the needs and views of the new generation of researchers,  or ‘early career researchers’ (ECRs) as they are sometimes known. The aim is to draw on these insights and match them against emerging technological opportunities. Through this process, this report is able to provide recommendations on the ways in which JISC and Higher Education Institutions (HEIs) can plan to support researchers at all career stages through the provision of training opportunities, technical infrastructure and technological tools.
+
+== Details ==
+You can find the summary and full files in the *downloads area* of this site 
+or on the JISC website: 
+Summary: http://www.jisc.ac.uk/media/documents/programmes/vre/earlycareerresearchersexecsummary.pdf
+Full version: http://www.jisc.ac.uk/media/documents/programmes/vre/earlycareerresearchers.pdf (PDF)
+
+You can also contribute or comment on the paper itself at: *http://earlycareerresearchers.caret.cam.ac.uk/*
+On this site you can search through sections and add comments. 
+Just click the small comment icons comment icon to the left of each paragraph to post your thoughts. 
