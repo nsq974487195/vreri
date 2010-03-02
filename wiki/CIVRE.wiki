@@ -3,8 +3,8 @@
 *_Cancer Imaging VRE_*
 
 ==Project Summary==
-[This project will develop a framework to allow researchers and clinicians involved in cancer imaging to share information, images and algorithms. It will achieve this by building on the Research Information Centre (RIC) developed for bioscience researchers by the British Library and Microsoft Corporation [1].
-Within this project we will leverage the work that is underway in a Microsoft funded project on cancer imaging [2] and expand the RIC to include the capability to adopt and adapt imaging algorithms through the use of the Microsoft Trident workflow tool.
+[This project will develop a framework to allow researchers and clinicians involved in cancer imaging to share information, images and algorithms. It will achieve this by building on the Research Information Centre (RIC) developed for bioscience researchers by the British Library and Microsoft Corporation (1).
+Within this project we will leverage the work that is underway in a Microsoft funded project on cancer imaging (2) and expand the RIC to include the capability to adopt and adapt imaging algorithms through the use of the Microsoft Trident workflow tool.
 
 The collaboration includes researchers at the Oxford e-Research Centre (OeRC), information engineers, clinicians at the Churchill hospital and researchers in the department of radiology, oncology and biology together with developers at Microsoft Corp. The resulting framework will sit on top of standard off the shelf technologies and will be developed as open source that can be used and adapted by researchers both within and external to Oxford University.
 
@@ -18,11 +18,9 @@ _PROJECTS Please add:
   *Community Question (how does this change the way things were done)_
 
 ==Project Introductions== 
-A 30 Second introduction at the INF11 Programme meeting @ Leicester University, July 2009, can be seen at: 
-http://www.youtube.com/watch?v=XXX (YouTube)
+A 30 Second introduction at the INF11 Programme meeting @ Leicester University, July 2009, can be seen at: http://www.youtube.com/watch?v=XXX (YouTube)
 
-A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: 
-TBC
+A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: http://vimeo.com/9855648
 
 ==Project Details==
  * Host Institution: University of Oxford, OERC
