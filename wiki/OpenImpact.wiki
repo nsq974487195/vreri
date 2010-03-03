@@ -13,7 +13,7 @@ British Computer Society) as an exemplar.
  * Community Question: Can we build on recent initiatives to collect and manage research outputs (repositories) and research administration information (CRIS systems) to better market our researchcapacity and effectiveness to industry, government and the British taxpayer/voters?
 
 ==Video introduction==
-*Please find the 3 minute introduction to the XXX project, from the VRERI Kick-off meeting at: http://vimeo.com/9854503 *
+*Please find the 3 minute introduction to the OpenImpact project, from the VRERI Kick-off meeting at: http://vimeo.com/9854503 *
 You can find the presentation in the Downloads section of this site. 
 
 ==Project Details==
