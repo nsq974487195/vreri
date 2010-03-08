@@ -15,7 +15,8 @@ CARET lead the VRE work for TLRP and continues to host the VRE, now funded by th
 
 
 
-_ * Academics get an easy way to keep their online profiles up to date 
+_ 
+ * Academics get an easy way to keep their online profiles up to date 
  * Universities can be more confident they are tracking all academic publications
  * VREs become more social, more powerful, and more useful to everyone_
 
