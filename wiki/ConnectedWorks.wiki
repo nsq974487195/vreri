@@ -1,6 +1,6 @@
 #labels project,Status-Incomplete,Call-VRE3,Theme-Interoperability
 =ConnectedWorks=
-*_Institutional scholarly comms with integrated publication sharing_*
+_*Enabling academics to simply upload their latest paper, and automatically have it placed in the institutional repository, confirmed in the institutional bibliometrics system, and added to their online profile, and also used to recommend new connections within their scholarly network. *_
 
 ==Project Summary==
 We wish to accelerate the development of the next generation VRE incorporating full scholarly networking and strong connections to critical research infrastructure, including repositories and research management systems.
@@ -13,12 +13,13 @@ We have a strong understanding of the issues of social networking in academia fr
 
 CARET lead the VRE work for TLRP and continues to host the VRE, now funded by the British Educational Research Association (BERA), who place a real monetary value on the benefits the VRE brings to its members. The ESRC Early Career Researchers project at CARET is showing the benefits of academic networking to young researchers who are building their profiles and reputations. CARET is also involved in the design of DSpace2. 
 
-_PROJECTS Please add: 
- * A short description of each of the cases, described in the project,
- * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
- * Questions this project answers (end user problems it solves): 
-  *User Question (what itch does it scratch): 
-  *Community Question (how does this change the way things were done)_
+
+
+_ * Academics get an easy way to keep their online profiles up to date 
+ * Universities can be more confident they are tracking all academic publications
+ * VREs become more social, more powerful, and more useful to everyone_
+
+
 
 ==Project Introductions== 
 A 3 minute outline of the project for the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: http://www.youtube.com/watch?v=otUyLQz-TeA
