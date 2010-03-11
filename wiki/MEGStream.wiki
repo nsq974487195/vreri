@@ -22,9 +22,10 @@ You can find the presentation in the Downloads section of this site.
 ==Questions this project answers==
 
 *User Question* 
-Can I use MEG in my research or clinical setting?
+Can I use MEG in my research or clinical setting? How easy is it to use MEG techniques?
 
-*Community Question (how does this change the way things were done)*
+*Community Question*
+How can we track our data through the MEG process? How can we reuse data from different MEG studies?
 
 ==Project Details==
  * Host Institution: Aston Brain Centre, Information Systems Aston
@@ -36,16 +37,13 @@ Can I use MEG in my research or clinical setting?
 
 ==Project Team==
  * Product Owner: Ian Holliday, i.e.holliday@aston.ac.uk, 0121 204 4064
- * Developer: TBC
- * Admin: TBC
- * Partners: TBC
- * Consultants: TBC
+ * Developer: Craig Everitt
+ * Admin: N M
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid01%20MEGStream.pdf Original bid]
- * Code Repository: TBC - Link 
+ * Code Repository: [http://code.google.com/p/megstream/ http://code.google.com/p/megstream/]
  * Technical Documentation: TBC
- * End User Documentation: TBC 
- * Analytics Engine: TBC 
- * Project Website: TBC
- * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * End User Documentation: TBC  
+ * Project Website: [http://www.aston.ac.uk/megstream/ http://www.aston.ac.uk/megstream]
+ * RSS Feed From Project Blog: [http://www.aston.ac.uk/megstream.rss http://www.aston.ac.uk/megstream.rss]
