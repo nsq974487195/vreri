@@ -1,11 +1,11 @@
-#labels project,Status-Incomplete,Theme-Resourcemgt,Theme-CommsnColl,Theme-MgtnAdmin,Call-VRERI
+#labels project,Status-Incomplete,Theme-Resourcemgt,Theme-CommsnColl,Theme-MgtnAdmin,Call-VRERI,Jena,SPARQL,RDF
 =MILARQ=
 
 *_Improving Search and Discovery Performance over Combined Data_*
 
-
 ==Project Summary==
-This MILARQ Project proposal seeks JISC funds to enhance performance of the CLAROS Explorer VRE, to allow wider public access to a rich set of classical art resources from major European research centres, and incorporation of additional source data.
+
+The MILARQ Project seeks to enhance performance of the CLAROS Explorer VRE, to allow wider public access to a rich set of classical art resources from major European research centres, and incorporation of additional source data.
 
 CLAROS (Classical Art Research Online Services; http://www.clarosnet.org/) provides search and discovery services over datasets that have been integrated, using Semantic Web technologies, from leading independent European research centres. The data web created from these datasets includes descriptions of classical art objects (pots, gems, statues, etc.) located in museums worldwide.
 
@@ -16,14 +16,24 @@ The project will run for 8 months from March 2010, employing 25%FTE of the devel
 Epimorphics Ltd consultancy services are being offered at a very substantial discount on their full commercial rate, equivalent to a contribution in kind to the project of £11,750, because of the broad benefits they see this project providing for the Jena community as a whole.
 
 ==Video introduction==
+
 *Please find the 3 minute introduction to the MILARQ project, from the VRERI Kick-off meeting at: http://vimeo.com/9854385 *
 You can find the presentation in the Downloads section of this site. 
 
-_PROJECTS Please add: 
- * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
- * Questions this project answers (end user problems it solves): 
-  *User Question (what itch does it scratch): 
-  *Community Question (how does this change the way things were done)_
+*Twitter-pitch:*
+Improving retrieval performance for information about classical art objects drawn from multiple research databases
+
+*End-user problem:*
+
+CLAROS (http://www.clarosnet.org/) provides a virtual integration of information about classical art objects, allowing scholars and lay users to search, browse and discover information from several respected scholarly sources in a single interface. We use an RDF triple store with CIDOC CRM to handle the integration, but some triple store queries (e.g. "find the earliest known occurrence of a vase bearing an image of Herakles") are very resource intensive, and perform too poorly for an effective user experience. MILARQ will allow additional indexes to be defined over the integrated data to accelerate identified queries used by the CLAROS user interface, providing acceptable performance that we can offer as a public service.
+
+We intend that this work will also be a precursor to enabling a range of publicly available search, discovery and comparison facilities over an increasing body of classical art and archaeological data, e.g. by using Shuffl (http://code.google.com/p/shuffl/) to create a flexible front-end on the CLAROS data for ad hoc queries and visualization - such as side-by-side comparison of geographical distributions for a given style of vase from different time periods.
+
+*Community impact:*
+
+Linked open data is increasingly recognized as providing a key to supporting a vast range of information handling tasks, but triple store performance continues to be a restraining factor (comparable with the state of relational databases in the 1970s).  Recent work on triple store performance has substantially focused on harnessing clustered hardware to allow triple stores to handle queries over billions of triples (e.g. 4store, AllegroGraph, etc.).  But some applications need improved query performance for relatively complex queries over modest data volumes using everyday hardware (CLAROS currently contains about 10 million triples, which is modest by modern standards).
+
+We intend that our work on triple store indexing will provide a route to improved performance for such applications, and hence benefit other projects that need the open-ended data structuring capabilities of RDF and good performance for a range of identified queries (noting that good performance for all possible RDF queries may be unachievable).  It is also possible that our MILARQ work will provide a stepping stone for work on automatic query analysis and planning, by allowing specific optimizations to be hand-coded and tested before committing to full-scale development.
 
 ==Project Details==
  * Host Institution: University of Oxford, Image Bioinformatics Research Group, Department of Zoology,
@@ -31,12 +41,12 @@ _PROJECTS Please add:
  * Duration: 8 months
  * Start Date: 01/03/2010
  * End Date: 31/10/2010
- * Amount Awarded to Project: £52,991.73
+ * Amount Awarded to Project: £35,112
 
 ==Project Team==
  * Product Owner: Dr David M. Shotton, david.shotton@zoo.ox.ac.uk, 01865-271193
- * Developer: 
- * Admin: 
+ * Developer: Graham Klyne (graham.klyne@zoo.ox.ac.uk), and Epimorphics.
+ * Admin: Graham Klyne (Project Manager), graham.klyne@zoo.ox.ac.uk
  * Partners: Epimorphics Ltd, Bristol
  * Consultants: 
 
@@ -46,5 +56,6 @@ _PROJECTS Please add:
  * Technical Documentation: TBC
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
- * Project Website: TBC
- * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * Project Website: http://code.google.com/p/milarq/
+ * XMPP Feed (twitter): n/a 
+ * RSS Feed From Project Blog: TBC
