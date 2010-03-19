@@ -6,8 +6,8 @@
 OpenPSIPearl is a collaboration between the University of Southampton (UoS), the UK Government, and the Office of Public Sector Information (OPSI) part of The National Archive and leading academic research groups with an interest in the use of UK government administrative datasets in combination with specifically provisioned survey data.
 
 This OpenPSIPearl project will produce three deliverables;
- # a national scale exemplar of a 'linked data' research challenge to excite the UK research community. It will be grounded in a relevant research policy question of understanding the effect of positive activities and opportunities within the locality of UK schools['content aggregation'];
- # an understanding of how provision of UK government 'linked data' will effect the methods and best practice in research use of administrative data in combination with additional survey data [critique of methods] and;
+ # a national scale exemplar of a 'linked data' research challenge to excite the UK research community. It will be grounded in a relevant research policy question of understanding the effect of positive activities and opportunities within the locality of UK schools (content aggregation);
+ # an understanding of how provision of UK government 'linked data' will effect the methods and best practice in research use of administrative data in combination with additional survey data (critique of methods) and;
  # sustained collaboration via an ongoing articulation on the needs of the UK Research community for, and provision by the Government of non-personl Public Sector Information using the previously JISC Rapid Innovation funded OpenPSIportal (http://www.openpsi.org/).
 
 ==Video introduction==
@@ -17,11 +17,19 @@ You can find the presentation in the Downloads section of this site.
 ==Twitter description==
 Help researchers make best use of UK Government actions to make more data available as linked data on the web.
 
-_PROJECTS Please add: 
+==What end user problems will we look to solve==
+It is anticipated that using linked administrative data will enhance methods for the
+analysis of survey data and to develop methods that can overcome problems
+commonly associated with survey data.
 
- * Questions this project answers (end user problems it solves): 
-  *User Question (what itch does it scratch): 
-  *Community Question (how does this change the way things were done):_
+In terms of data linkage (also known by this community as record linkage) we anticipate that web scale linking will overcome some of the challenging problems faced in the past with small scale file to file based record linkage.
+
+==How will it change the way things were done by Community==
+It has been recognised by the Community that;
+ # data (‘old definition’) - rectangular dataset of numbers
+ # data (‘new definition’) - information, survey data, administrative data, additional resources (video, texts, voice)
+
+The community has a tradition of master data management with linking new transactions/events to master records. The linked data web should provide a much broader and richer context of a master data file with shared contribution of additionally linked new data.
 
 ==Project Details==
  * Host Institution: University of Southampton, School of Electronics and Computer Science
