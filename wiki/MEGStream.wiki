@@ -15,13 +15,12 @@ The project will:
 *Twitter description*
 Streamlining the processing of magnetic brain imaging data for research and medicine using Taverna workflows
 
-== Latest blog posts ==
-
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://www.aston.ac.uk/megstream.rss" width="500px" height="340px" border="0"/>  
-
 ==Video introduction==
 *Please find the 3 minute introduction to the MEGStream project, from the VRERI Kick-off meeting at: http://vimeo.com/9854260 *.
 You can find the presentation in the Downloads section of this site. 
+
+== Latest blog posts ==
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://www.aston.ac.uk/megstream.rss" width="600px" height="340px" border="0"/>  
 
 ==Questions this project answers==
 
