@@ -17,7 +17,7 @@ Streamlining the processing of magnetic brain imaging data for research and medi
 
 == Latest blog posts ==
 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://www.aston.ac.uk/megstream.xml" width="500px" height="340px" border="0"/>  
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://www.aston.ac.uk/megstream.rss" width="500px" height="340px" border="0"/>  
 
 ==Video introduction==
 *Please find the 3 minute introduction to the MEGStream project, from the VRERI Kick-off meeting at: http://vimeo.com/9854260 *.
