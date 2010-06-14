@@ -57,7 +57,7 @@ Management of epidemiological data is time consuming and difficult. This is part
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid41%20SERPent.pdf Original Bid]
- * Code Repository: TBC - Link 
+ * Code Repository: https://www.assembla.com/wiki/show/serpent 
  * Technical Documentation: TBC
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
