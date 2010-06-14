@@ -61,5 +61,5 @@ Management of epidemiological data is time consuming and difficult. This is part
  * Technical Documentation: TBC
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
- * Project Website: TBC
+ * Project Website: http://wiki.ucl.ac.uk/display/ICHPaedUniSERPent/Secure+Epidemiology+Research+Platform+%28SERPent%29
  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
