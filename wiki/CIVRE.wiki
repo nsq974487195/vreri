@@ -1,14 +1,20 @@
 #labels project,Status-Incomplete,Call-VRE3,Theme-Frameworks
-=CIVRE=
-*_Cancer Imaging VRE_*
+=VRE-CI=
+*_A Virtual Research Environment for Cancer Imaging_*
 
 ==Project Summary==
-[This project will develop a framework to allow researchers and clinicians involved in cancer imaging to share information, images and algorithms. It will achieve this by building on the Research Information Centre (RIC) developed for bioscience researchers by the British Library and Microsoft Corporation (1).
+This project will develop a framework to allow researchers and clinicians involved in cancer imaging to share information, images and algorithms. It will achieve this by building on the Research Information Centre (RIC) developed for bioscience researchers by the British Library and Microsoft Corporation (1).
 Within this project we will leverage the work that is underway in a Microsoft funded project on cancer imaging (2) and expand the RIC to include the capability to adopt and adapt imaging algorithms through the use of the Microsoft Trident workflow tool.
 
 The collaboration includes researchers at the Oxford e-Research Centre (OeRC), information engineers, clinicians at the Churchill hospital and researchers in the department of radiology, oncology and biology together with developers at Microsoft Corp. The resulting framework will sit on top of standard off the shelf technologies and will be developed as open source that can be used and adapted by researchers both within and external to Oxford University.
 
-The development of this framework is very timely as Oxford University has recently adopted Microsoft Exchange and SharePoint as a groupware solution that will be implemented across the University. This project will be an exemplar of the use of these technologies in a University setting for the support of research and operating as a virtual research environment framework. The John Radcliffe information system is also based on SharePoint which presents the opportunity to consider the issues of integration across NHS and academic resources.] 
+The development of this framework is very timely as Oxford University has recently adopted Microsoft Exchange and SharePoint as a groupware solution that will be implemented across the University. This project will be an exemplar of the use of these technologies in a University setting for the support of research and operating as a virtual research environment framework. The John Radcliffe information system is also based on SharePoint which presents the opportunity to consider the issues of integration across NHS and academic resources.
+
+_Use Cases: _Two exemplar use cases have been defined for covering various aspects of the research pipeline: 
+1.	Segmentation of colorectal images:  This exemplar comes about due to an existing Microsoft funded project.  This involves researchers working on novel segmentation algorithms for colorectal cancer images. The user group is distributed in different geographical locations, MSR Cambridge, Oxford University and the Churchill hospital. 
+2.	Fluorescent microscopy: Working with the scientists and system developers at the Gray Institute for Radiation, Oncology and Biology will provide the opportunity to ensure that the system is interoperable with existing image systems and will provide insight into the pipeline from data acquisition through analysis and curation.
+
+The VRE-CI project aims to enhance collaboration among clinicians and medical image analysis researchers by providing access to the same resources. One of the critical aspects while collaborating with clinicians is time, due to their demaining jobs. The system aims to allow clinicians to be aware of which tools researchers are developing,  use these tools and provide feeback about their performace online. 
 
 _PROJECTS Please add: 
  * A short description of each of the cases, described in the project,
