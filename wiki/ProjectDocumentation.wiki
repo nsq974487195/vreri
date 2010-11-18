@@ -60,7 +60,7 @@ The following topics make up the required Progress Posts (you can do these posts
 || *(VI)* "Small WIN(s") & "FAIL(s)"* aka advice others could benefit from || (To note: you could use twitter for these posts instead of your project blog if you prefer, make sure your twitter account is listed on the [http://bit.ly/CoreProjectResourcesSS core resources form]).  Announce small wins for the project, e.g. when you finish a coding sprint or when a user has a 'wow your software is cool' moment.  The more of these short "win" posts the better!  Also don't forget to post the FAIL(s) as well: telling people where things went wrong so they don't repeat mistakes is priceless for a thriving community. || required tags = "WIN" or "FAIL" and progressPosts, rapidInnovation, VRERI, JISC, <your own unique project tag>, etc. ||
 
 === (VII) === 
-*Final Progress Post* aka final prototype product advertisement (DEADLINE: PROJECT END DATE AND NO LATER THAN OCTOBER 1ST)
+*Final Progress Post* aka final prototype product advertisement (DEADLINE: PROJECT END DATE)
     * In this post you are required to address each one of the below elements, this post along with your final prototype will be evaluated for its readiness to launch to the end user.  If selected, we'll be using this post as the final "advertisement" that will go in an 'Argos-like catalogue' of JISC Software Prototypes (a vision of the future to come!).  We hope to put this publication on the desk of as many senior managers in UK HE/FE as possible as well as other potential investors (e.g. NGOs and VCs) in the New Year so please write this Final post with that audience in mind.
     * *Template for Final Progress Post* (please copy and paste the below into the html of your final post and fill out accordingly.  Delete comments inside of html ignore tags, e.g. "<!-- lorum ipsum doler -->"):
       * Title of Primary Project Output: <--! Please use the following title format for this post: "ProjectTag: One line description of prototyped output"-->
@@ -81,7 +81,7 @@ The following topics make up the required Progress Posts (you can do these posts
 *An aggregated feed of all VRERI Progress Posts is available at http://pipes.yahoo.com/jisc/rapidinnovationprojectnews *
 
 == 3. Final Project Sign-Off ==
-DEADLINE: OCTOBER 11TH 2010 (BUDGETS MUST BE APPROVED BY PROGRAMME MANAGERS SO PLEASE SUBMIT WITH TIME TO SPARE)
+DEADLINE: 31 OCTOBER 2010 (BUDGETS MUST BE APPROVED BY PROGRAMME MANAGERS SO PLEASE SUBMIT WITH TIME TO SPARE)
   # *Final Budget Template* (everyone must fill this out and have it approved by their programme manager)
     * [http://vreri.googlecode.com/files/Template%20%5BProjectTag%5D_Finalbudget_VRERI_JISC.xls Budget spreadsheet template listed here].
     * Please note that the final budget will be made open under FOI regulations so do not put any personal data in the budget, e.g. instead of listing names of people please list their generic 'central spine' role in the project: "project manager", "project developer", "consultant developer", etc.
