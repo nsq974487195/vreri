@@ -36,7 +36,7 @@ _PROJECTS Please add:
  * Technical Documentation: TBC
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
- * Final Progress Blog : http://blogs.blogmydata.org/projectblog/467/BlogMyData_a_new_Virtual_Research_Environment_for_environmental_scientists.html
+ * Final Progress Post : http://blogs.blogmydata.org/projectblog/467/BlogMyData_a_new_Virtual_Research_Environment_for_environmental_scientists.html
  * Project Website: http://www.blogmydata.org
  * XMPP Feed (twitter): http://twitter.com/blogmydata
  * RSS Feed From Project Blog: http://blogs.blogmydata.org/feeds/projectblog
