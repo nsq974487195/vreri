@@ -3,7 +3,7 @@
 *_Summary_*
 
 ==Project Summary==
-[ TBC ]
+This project will create a flexible tool for converting Access Grid recordings (made with the VRE Projects CREW and Memetic) to and from standard common formats, such as MPEG-4, MPEG-2 and avi. 
 
 ==Project Introductions== 
 A 30 second introduction to the project given at the VRE3 kickoff meeting @Leicester,  August 2009, can be seen at: http://www.youtube.com/watch?v=s2-2qZPebZY (Youtube)
