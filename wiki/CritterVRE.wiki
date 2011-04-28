@@ -39,6 +39,7 @@ Will make more annotations available within recordings, and will make recordings
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid25%20CritterVRE.pdf Original Bid]
+* [http://vreri.googlecode.com/files/CritterVRE_Projectplan_VRERI_JISC.docx Project Plan]
  * Code Repository: [http://vicovre.googlecode.com/]
  * Technical Documentation: [http://vicovre.googlecode.com/]
  * End User Documentation: [http://vicovre.googlecode.com/]
