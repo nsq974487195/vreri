@@ -59,3 +59,4 @@ We intend that our work on triple store indexing will provide a route to improve
  * Project Website: http://code.google.com/p/milarq/
  * XMPP Feed (twitter): n/a 
  * RSS Feed From Project Blog: feed://milarq-announce.blogspot.com/feeds/posts/default
+ * Final blog post: http://code.google.com/p/milarq/wiki/MILARQ_final_progress_post
