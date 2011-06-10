@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Theme-Resourcemgt,Theme-Experimentation,Theme-CommsnColl,Call-VRERI
+#labels project,Status-Complete,Theme-Resourcemgt,Theme-Experimentation,Theme-CommsnColl,Call-VRERI
 =vizTweets=
 *_ a new way of debating and using data artefacts within visualizations_ *
 
@@ -66,3 +66,4 @@ The work will enable this particular community to use text to collaborate throug
  * Project Website: http://gicentre.org/vizTweets/
  * XMPP Feed (twitter): n/a
  * RSS Feed From Project Blog: http://code.google.com/feeds/p/viztweets/updates/basic
+ * Final blog post: http://gicentre.org/vizTweets/
