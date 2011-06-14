@@ -53,8 +53,7 @@ We intend that our work on triple store indexing will provide a route to improve
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid30%20MILARQ.pdf Original Bid]
  * Code Repository:  https://milarq.googlecode.com/hg/ 
- * Technical Documentation: TBC
- * End User Documentation: TBC 
+ * Technical Documentation: http://code.google.com/p/milarq/w/list * End User Documentation: TBC 
  * Analytics Engine: https://www.google.com/analytics/reporting/?reset=1&id=30609389&pdr=20100215-20100317
  * Project Website: http://code.google.com/p/milarq/
  * XMPP Feed (twitter): n/a 
