@@ -47,7 +47,7 @@ gMan will prototype an online, collaborative environment where researchers can o
  * Technical Documentation: https://wiki.gcore.research-infrastructures.eu/documentation/index.php/GCube_Wiki
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
- * Project Website: http://portal.d4science.research-infrastructures.eu/
+ * Project Website: http://gman.cerch.kcl.ac.uk/
  * Website of gMan service: http://portal.d4science.research-infrastructures.eu/
  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
  * Final Progress Post: http://gman.cerch.kcl.ac.uk/
