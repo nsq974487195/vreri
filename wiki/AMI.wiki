@@ -31,7 +31,7 @@ _ PROJECT Please add:
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid04%20AMI.pdf Original Bid]
- * Code Repository: TBC - Link 
+ * Code Repository: http://bitbucket.org/jat45/ami/
  * Technical Documentation: TBC
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
