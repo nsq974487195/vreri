@@ -47,7 +47,7 @@ How can we track our data through the MEG process? How can we reuse data from di
  * [http://vreri.googlecode.com/files/Bid01%20MEGStream.pdf Original bid]
  * Code Repository: [http://code.google.com/p/megstream/ http://code.google.com/p/megstream/]
  * Technical Documentation: [http://code.google.com/p/megstream/w/list http://code.google.com/p/megstream/w/list]
- * End User Documentation: TBC 
+ * End User Documentation: http://code.google.com/p/megstream/wiki/Documentation
  * Bug tracking for feedback: [http://code.google.com/p/megstream/issues/list http://code.google.com/p/megstream/issues/list]
  * Project Website: [http://www.aston.ac.uk/megstream/ http://www.aston.ac.uk/megstream]
  * RSS Feed From Project Blog: [http://www.aston.ac.uk/megstream.rss http://www.aston.ac.uk/megstream.rss]
