@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Call-VRERI,Theme-Resourcemgt,Theme-Experimentation
+#labels project,Status-Complete,Call-VRERI,Theme-Resourcemgt,Theme-Experimentation
 =OpenPSIPearl=
 *_combining Governmental administrative datasets_*
 
@@ -49,9 +49,10 @@ London, The Social Policy Research Unit,York University
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid36%20OpenPSIPearl.pdf Original Bid]
- * Code Repository: TBC - Link 
+ * Code Repository: https://forge.ecs.soton.ac.uk/plugins/scmsvn/viewcvs.php/branches/openPSI/?root=swci 
  * Technical Documentation: TBC
- * End User Documentation: TBC 
+ * End User Documentation: http://code.google.com/p/vreri/wiki/OpenPSIPearl
  * Analytics Engine: TBC 
  * Project Website: http://www.openpsi.org/
  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * Final Blog Post: see comment (11/11/2010) below
