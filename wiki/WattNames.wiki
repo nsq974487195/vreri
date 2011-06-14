@@ -38,5 +38,6 @@ _PROJECTS Please add:
  * Technical Documentation: TBC
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
- * Project Website: TBC
+ * Project Website: http://www.macs.hw.ac.uk/~mthljr/wattnames.html
+ * Project Blog: http://wattnames.wordpress.com/
  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
