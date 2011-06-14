@@ -24,7 +24,7 @@ _ PROJECT Please add:
 
 ==Project Team==
  * Product Owner: Dr. Peter Murray-Rust, pm286@cam.ac.uk, 01223 76073
- * Developer: 
+ * Developer: Brian Brooks, bjb45@cam.ac.uk
  * Admin: 
  * Partners: 
  * Consultants: 
@@ -35,5 +35,6 @@ _ PROJECT Please add:
  * Technical Documentation: TBC
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
- * Project Website: TBC
- * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * Project Website: http://www-ucc.ch.cam.ac.uk/projects/ami
+ * XMPP Feed (twitter): n/a 
+ * Project Blog: http://amiproject.wordpress.com/
