@@ -26,7 +26,7 @@ You can find the presentation in the Downloads section of this site.
 
 ==Project Team==
  * Product Owner: Dr Leslie Carr, lac@ecs.soton.ac.uk, http://users.ecs.soton.ac.uk/lac
- * Developer: Patrick McSweeney, pm5@ecs.soton.ac.uk, http://users.ecs.soton.ac.uk/pm5
+ * Developer: 'Patrick McSweeney', pm5@ecs.soton.ac.uk, http://users.ecs.soton.ac.uk/pm5
  * Admin: Dr Mark Weal, mjw@ecs.soton.ac.uk, http://users.ecs.soton.ac.uk/mjw
  * Partners: BCS Academy of Computing
  * Consultants: 
