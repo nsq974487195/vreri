@@ -38,3 +38,4 @@ _ PROJECT Please add:
  * Project Website: http://www-ucc.ch.cam.ac.uk/projects/ami
  * XMPP Feed (twitter): n/a 
  * Project Blog: http://amiproject.wordpress.com/
+ * Final report: http://code.google.com/p/vreri/downloads/detail?name=Ami%20Final%20Report%20Jan11%20v2.pdf&can=2&q=
