@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Theme-Resourcemgt,Theme-CommsnColl,Call-VRERI
+#labels project,Status-Complete,Theme-Resourcemgt,Theme-CommsnColl,Call-VRERI
 =CritterVRE=
 *_Aggregation and Mash-Up of CREW and Twitter_*
 
@@ -47,3 +47,4 @@ Will make more annotations available within recordings, and will make recordings
  * Project Website: http://www.rcs.manchester.ac.uk/research/CritterVRE/
  * XMPP Feed (twitter): n/a 
  * RSS Feed From Project Blog: http://grace.rcs.manchester.ac.uk/vre3/?feed=rss2
+ * Final report: http://wiki.rcs.manchester.ac.uk/community/vre3?action=AttachFile&do=get&target=CritterVREfinalreport_b.pdf
