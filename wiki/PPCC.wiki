@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Call-VRERI,Theme-Resourcemgt,Theme-CommsnColl,Theme-MgtnAdmin
+#labels project,Status-Complete,Call-VRERI,Theme-Resourcemgt,Theme-CommsnColl,Theme-MgtnAdmin
 =PPCC=
 *_A People-powered Collaboration Catalyst_*
 
@@ -7,7 +7,7 @@ This project will deliver a tool to improve the experience of finding and collab
 Directory, Delicious tags, Google Scholar and many other data-mined social media services.
 
 ==Video introduction==
-*Please find the 3 minute introduction to the XXX project, from the VRERI Kick-off meeting at: http://vimeo.com/9854711 *
+*Please find the 3 minute introduction to the PPCC project, from the VRERI Kick-off meeting at: http://vimeo.com/9854711 *
 You can find the presentation in the Downloads section of this site. 
 
 _PROJECTS Please add: 
@@ -33,9 +33,11 @@ _PROJECTS Please add:
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid45%20PPCC.pdf Original Bid]
- * Code Repository: TBC - Link 
- * Technical Documentation: TBC
+ * Code Repository: http://www.collabtools.org.uk/svn/pppeople/
+ * Technical Documentation: http://pppeople.collabtools.org.uk/static/Installation.html
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
- * Project Website: TBC
+ * Project Website: http://pppeople.collabtools.org.uk/
+ * Project Blog: http://pppeoplepppowered.blogspot.com/
  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * Final Blog Post: http://pppeople.collabtools.org.uk/about/
