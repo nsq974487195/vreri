@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Call-VRE3,Theme-Interoperability
+#labels project,Status-Complete,Call-VRE3,Theme-Interoperability
 =ConnectedWorks=
 _*Enabling academics to simply upload their latest paper, and automatically have it placed in the institutional repository, confirmed in the institutional bibliometrics system, and added to their online profile, and also used to recommend new connections within their scholarly network. *_
 
