@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Call-VRE3,Theme-Frameworks,Theme-BCE
+#labels project,Status-Complete,Call-VRE3,Theme-Frameworks,Theme-BCE
 =CRIB=
 *_Collaborative Research in Business_*
 
