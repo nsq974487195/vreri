@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Call-VRE3,Theme-Tools
+#labels project,Status-Complete,Call-VRE3,Theme-Tools
 =ViCoVRE=
 *_Summary_*
 
@@ -15,7 +15,7 @@ A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, Feb
  * VRE3/Strands: Theme-Tools
  * Duration: 6+4 months
  * Start Date: 1 April 2009
- * End Date: 31 March 2010 (TBC)
+ * End Date: 30 November 2010
  * Amount Awarded to Project: £xxx,xxx.00
 
 ==Project Team==
