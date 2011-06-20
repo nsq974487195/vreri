@@ -28,6 +28,7 @@ A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, Feb
  * Duration: 24 months
  * Start Date: 1 April 2009
  * End Date: 31 March 2011
+ * Revised End Date: 30/09/2011
  * Amount Awarded to Project: £xxx,xxx.00
 
 ==Project Team==
