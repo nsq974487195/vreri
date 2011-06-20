@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Call-VRE3,Theme-Frameworks
+#labels project,Status-Complete,Call-VRE3,Theme-Frameworks
 =VRE-CI=
 *_A Virtual Research Environment for Cancer Imaging_*
 
@@ -28,7 +28,7 @@ A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, Feb
  * VRE3/Strands: Theme-Frameworks
  * Duration: 18 months
  * Start Date: 1 May 2009
- * End Date: 31 October 2010
+ * End Date: 28 February 2011
  * Amount Awarded to Project: £152,738.00
 
 ==Project Team==
