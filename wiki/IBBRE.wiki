@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Theme-Frameworks,Call-VRE3
+#labels project,Status-Complete,Theme-Frameworks,Call-VRE3
 =IBBRE=
 *_Internet Based Behavioural Research Environment_*
 
@@ -29,6 +29,7 @@ A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, Feb
  * Duration: 18 months
  * Start Date: 1 July 2009
  * End Date: 31 December 2010
+ * Revised End Date: 30 April 2011
  * Amount Awarded to Project: £xxx,xxx.00
 
 ==Project Team==
