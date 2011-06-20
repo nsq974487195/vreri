@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Call-VRERI,Theme-Resourcemgt,Theme-MgtnAdmin
+#labels project,Status-Complete,Call-VRERI,Theme-Resourcemgt,Theme-MgtnAdmin
 =WattNames=
 *_Case study and trial implementation to uniquely identify Heriot-Watt University researchers_*
 
@@ -41,3 +41,4 @@ _PROJECTS Please add:
  * Project Website: http://www.macs.hw.ac.uk/~mthljr/wattnames.html
  * Project Blog: http://wattnames.wordpress.com/
  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * Final Blog Post: http://wattnames.wordpress.com/2011/06/20/final-progress-post/
