@@ -60,3 +60,26 @@ We intend that our work on triple store indexing will provide a route to improve
  * XMPP Feed (twitter): n/a 
  * RSS Feed From Project Blog: feed://milarq-announce.blogspot.com/feeds/posts/default
  * Final blog post: http://code.google.com/p/milarq/wiki/MILARQ_final_progress_post
+
+==Notes==
+
+Query performance improvement summary - the overall improvement of the test suite is about 20x, though some queries show 100x:
+-- http://code.google.com/p/milarq/wiki/ClarosServerPerformanceNotes
+
+And, separately from the MILARQ project itself, the VRE that MILARQ was to support was recently released publicly:
+-- http://explore.clarosnet.org/XDB/ASP/clarosHome/
+-- http://data.clarosnet.org/
+
+Strictly speaking, the CLAROS environment does not currently use the MILARQ software as developed, but it has incorporated many of the lessons of the MILARQ project.
+
+==Some highlights:==
+
+An unexpected finding of the project was that many (over half) of the 
+original queries that were undeployably slow were made acceptably fast by augmenting the data and revising the queries; i.e. without requiring any change the the basic RDF query software.  This corresponds roughly to denormalization or view materialization in relational databases.
+
+Some of the counting query enhancements depend on features present in 
+SPARQL 1.1, but not in SPARQL 1.0
+
+A very small number of query performance improvements depend on new  indexing structures, and MILARQ software contains a general purpose framework for connecting new indexes to the underlying Jena engine.  My hope for the longer term is that these details can be added into Fuseki (the pre-packaged Jena query server), but at this time there's no guarantee of that.  Meanwhile the MILARQ source code is open for re-use.
+
+Any projects that are interested in RDF store query performance issues should contact Graham Klyne (graham.klyne@zoo.ox.ac.uk).
