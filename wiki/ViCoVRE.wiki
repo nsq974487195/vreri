@@ -31,6 +31,7 @@ A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, Feb
  * Technical Documentation: TBC
  * End User Documentation: TBC 
  * Analytics Engine: TBC 
+ * Final Report: http://wiki.rcs.manchester.ac.uk/community/vre3?action=AttachFile&do=get&target=ViCoVREfinalreport_b.pdf
  * Project Website: http://wiki.rcs.manchester.ac.uk/community/vre3
  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
  * JISC website: http://www.jisc.ac.uk/whatwedo/programmes/vre.aspx
