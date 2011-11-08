@@ -59,6 +59,5 @@ Management of epidemiological data is time consuming and difficult. This is part
  * [http://vreri.googlecode.com/files/Bid41%20SERPent.pdf Original Bid]
  * Code Repository: https://www.assembla.com/wiki/show/serpent 
  * Project Website: http://wiki.ucl.ac.uk/display/ICHPaedUniSERPent/Secure+Epidemiology+Research+Platform+%28SERPent%29
- * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
  * Final Blog Post: https://wiki.ucl.ac.uk/display/ICHPaedUniSERPent/Completion+Report
  * [http://vreri.googlecode.com/files/SERPent%20Final%20Report.pdf Final Report]
