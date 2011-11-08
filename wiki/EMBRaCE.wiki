@@ -35,4 +35,4 @@ _PROJECTS Please add:
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid23%20EMBRaCE.pdf Original Bid]
  * Project Website: TBC
- * Final Report: [http://code.google.com/p/vreri/downloads/detail?name=AR3_embrace_eoa.pdf&can=2&q=]
+ * [http://vreri.googlecode.com/files/AR3_embrace_eoa.pdf Final Report]
