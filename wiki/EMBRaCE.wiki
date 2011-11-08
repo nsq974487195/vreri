@@ -34,9 +34,5 @@ _PROJECTS Please add:
 
 ==Documentation==
  * [http://vreri.googlecode.com/files/Bid23%20EMBRaCE.pdf Original Bid]
- * Code Repository: TBC - Link 
- * Technical Documentation: TBC
- * End User Documentation: TBC 
- * Analytics Engine: TBC 
  * Project Website: TBC
- * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+ * Final Report: [http://code.google.com/p/vreri/downloads/detail?name=AR3_embrace_eoa.pdf&can=2&q=]
