@@ -1,4 +1,4 @@
-#labels project,Status-Incomplete,Call-VRE3,Theme-Interoperability
+#labels project,Status-Complete,Call-VRE3,Theme-Interoperability
 =LinkSphere=
 *_a single virtual interface for searching across all the repositories and collections_*
 
