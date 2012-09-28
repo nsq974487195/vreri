@@ -1,4 +1,4 @@
-#labels project,StatusComplete,Call-VRERI,Theme-Resourcemgt,Theme-BCE
+#labels project,Status-Complete,Call-VRERI,Theme-Resourcemgt,Theme-BCE
 =OpenImpact=
 *_Collecting and Communicating Evidence of Research Impact_*
 
