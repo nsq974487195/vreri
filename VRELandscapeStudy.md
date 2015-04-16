@@ -1,0 +1,12 @@
+# Virtual Research Environment Collaborative Landscape Study #
+
+## Introduction ##
+> JISC has taken an active role in supporting VRE development in the UK through its VRE Programme that has just gone into its third phase, and had commissioned four studies to look into different aspects of VREs. This study looks at VREs and research collaboration in a wider international context – the VRE Collaborative Landscape Study.
+
+The project ran from July to December 2009, and was a collaboration between the Centre for e-Research at King’s College London and the University of Oxford e-Research Centre.
+The major parts of the study and report were undertaken by Torsten Reimer and Annamaria
+Carusi; Craig Bellamy co-authored the original bid and was involved at initial stages of the project, with Valentina Asciutti joining after he had left CeRch. Other project team members included Anne Trefethen and Marina Jirotka at the OeRC.
+
+## Details ##
+
+The report can be found in the Downloads area of this site.

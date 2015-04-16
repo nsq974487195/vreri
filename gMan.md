@@ -1,0 +1,52 @@
+# gMan #
+**_everyday research in the humanities deployed on research infrastructures_**
+
+## Project Summary ##
+
+gMan is addressing the creation of general-purpose VREs for the humanities, systems that move beyond the specific, focused tasks supported by many VREs, and instead provide services and environments that support everyday humanities research activities.
+
+Specifically, we are investigating use cases related to the organisation and integration of the dispersed and heterogeneous information on which humanities research is often based, with a particular focus on unstructured documents and archival material. These use cases are highly interactive, interpretative and researcher-centric, addressing topics such as annotation environments and support for 'active reading' processes and scholarly dialogues. Our VRE will be targeted at and evaluated by researchers in the Classics and ancient history, although it aims to be applicable more generally.
+
+The gMan VRE is deployed within the gCube environment, which was developed as part of the EU-funded D4Science initiative. gCube allows VREs to be built on demand using shared European grid infrastructure resources.
+
+## Twitter Description ##
+gMan will create a VRE for everyday humanities research, with a focus on unstructured and archival resources, built on gCube and the EU Grid.
+
+## Video introduction ##
+**Please find the 3 minute introduction to the gMan project, from the VRERI Kick-off meeting at: http://vimeo.com/9854128**.
+You can find the presentation in the Downloads section of this site.
+
+## User Question (what itch does it scratch) ##
+The primary sources for much humanities research are found in archives that are geographically dispersed and contain material in a variety of formats. Working with this material is often a highly interactive and time-consuming process involving searching for documents or data relevant to the researcher’s interests, selecting from and interpreting them, making personal judgements and annotations based on a variety of evidence. The justification of the conclusions is based to a large extent on the provenance of the source material and on peer-comment from the relevant research community. While there are a number of environments that focus on specific research tasks in the humanities, there is none that addresses these more general-purpose activities.
+
+## Community Question ##
+
+gMan will prototype an online, collaborative environment where researchers can organise (search, browse, select, annotate, ...) digital resources, in particular unstructured resources and online archives.
+
+## Project Details ##
+  * Host Institution: King’s College London, Centre for e-Research
+  * VRERI/Strands:  Theme-Resourcemgt /  Theme-Experimentation / Theme-MgtnAdmin
+  * Duration: 6 months
+  * Start Date: 11/1/2010
+  * End Date: 10/7/2010
+  * Amount Awarded to Project: £ 52,280.81
+
+## Project Team ##
+  * Project Director: Mark Hedges, mark.hedges@kcl.ac.uk, 02078481970
+  * Project Manager: Tobias Blanke, tobias.blanke@kcl.ac.uk
+  * Developer: Mike Priddy, michael.priddy@kcl.ac.uk
+  * Consultant: Fabio Simeoni, fabio.simeoni@cis.strath.ac.uk
+  * Consultant: Prof. Richard Connor, richard.connor@cis.strath.ac.uk
+  * Admin: Lydia Horstman, lydia.horstman@kcl.ac.uk
+  * Partners: University of Strathclyde
+
+## Documentation ##
+  * [Original Bid](http://vreri.googlecode.com/files/Bid20%20%20gMan.pdf)
+  * Code Repository: TBC - Link
+  * Technical Documentation: https://wiki.gcore.research-infrastructures.eu/documentation/index.php/GCube_Wiki
+  * End User Documentation: TBC
+  * Analytics Engine: TBC
+  * Project Website: http://gman.cerch.kcl.ac.uk/
+  * Website of gMan service: http://portal.d4science.research-infrastructures.eu/
+  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+  * Final Progress Post: http://gman.cerch.kcl.ac.uk/

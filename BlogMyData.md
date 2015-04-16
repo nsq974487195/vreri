@@ -1,0 +1,41 @@
+# BlogMyData #
+**_Combined environment for Environmental Scientists_**
+
+## Project Summary ##
+This project will combine two existing systems to create a new Virtual Research Environment for environmental scientists. By combining the capabilities of an online environmental data visualization system with a sophisticated blogging and collaboration engine, we will rapidly create a new facility for scientists to collaborate on important data analysis tasks, focussing here on the diagnosis of the latest cutting-edge numerical simulations of the climate and oceans.
+
+## Video introduction ##
+**Please find the 3 minute introduction to theBlogMyData project, from the VRERI Kick-off meeting at: http://vimeo.com/9853810**.
+You can find the presentation in the Downloads section of this site.
+
+_PROJECTS Please add:
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them): **BlogMyData will allow environmental scientists to collaborate on the interpretation of cutting-edge climate and ocean simulations.**
+  * Questions this project answers (end user problems it solves):
+    * User Question (what itch does it scratch): **How can I work with my colleagues to interpret complex datasets, and how can I discover people with similar interests who can help with my problems?**
+    * Community Question (how does this change the way things were done): **Can we create significant new collaborative capability through a simple mashup of existing systems?**_
+
+## Project Details ##
+  * Host Institution: University of Reading, Environmental Systems Science Centre
+  * VRERI/Strands:  Theme-Resourcemgt / Theme-Experimentation / Theme-CommsnColl
+  * Duration: 10 months
+  * Start Date: 01/01/2010
+  * End Date: 31/10/2010
+  * Amount Awarded to Project: £55,927.20
+
+## Project Team ##
+  * Product Owner: Dr J.D. Blower, j.d.blower@reading.ac.uk, 0118 378 5213
+  * Developer: Adit Santokhee, Reading; Andrew Milsted, Southampton;
+  * Admin: N/A
+  * Partners: Prof. Jeremy Frey, Southampton
+  * Consultants: N/A
+
+## Documentation ##
+  * [Original Bid](http://vreri.googlecode.com/files/Bid33%20BlogMyData.pdf)
+  * Code Repository: Code will be hosted in existing Subversion repositories for the systems that will be combined: Godiva2 (https://ncwms.svn.sourceforge.net/svnroot/ncwms/trunk) and the LabBlog (TBC)
+  * Technical Documentation: TBC
+  * End User Documentation: TBC
+  * Analytics Engine: TBC
+  * Final Progress Post : http://blogs.blogmydata.org/projectblog/467/BlogMyData_a_new_Virtual_Research_Environment_for_environmental_scientists.html
+  * Project Website: http://www.blogmydata.org
+  * XMPP Feed (twitter): http://twitter.com/blogmydata
+  * RSS Feed From Project Blog: http://blogs.blogmydata.org/feeds/projectblog

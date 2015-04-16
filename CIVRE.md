@@ -1,0 +1,49 @@
+# VRE-CI #
+**_A Virtual Research Environment for Cancer Imaging_**
+
+## Project Summary ##
+This project will develop a framework to allow researchers and clinicians involved in cancer imaging to share information, images and algorithms. It will achieve this by building on the Research Information Centre (RIC) developed for bioscience researchers by the British Library and Microsoft Corporation (1).
+Within this project we will leverage the work that is underway in a Microsoft funded project on cancer imaging (2) and expand the RIC to include the capability to adopt and adapt imaging algorithms through the use of the Microsoft Trident workflow tool.
+
+The collaboration includes researchers at the Oxford e-Research Centre (OeRC), information engineers, clinicians at the Churchill hospital and researchers in the department of radiology, oncology and biology together with developers at Microsoft Corp. The resulting framework will sit on top of standard off the shelf technologies and will be developed as open source that can be used and adapted by researchers both within and external to Oxford University.
+
+The development of this framework is very timely as Oxford University has recently adopted Microsoft Exchange and SharePoint as a groupware solution that will be implemented across the University. This project will be an exemplar of the use of these technologies in a University setting for the support of research and operating as a virtual research environment framework. The John Radcliffe information system is also based on SharePoint which presents the opportunity to consider the issues of integration across NHS and academic resources.
+
+_Use Cases:_Two exemplar use cases have been defined for covering various aspects of the research pipeline:
+  * Segmentation of colorectal images:  This exemplar comes about due to an existing Microsoft funded project.  This involves researchers working on novel segmentation algorithms for colorectal cancer images. The user group is distributed in different geographical locations, MSR Cambridge, Oxford University and the Churchill hospital.
+  * Fluorescent microscopy: Working with the scientists and system developers at the Gray Institute for Radiation, Oncology and Biology will provide the opportunity to ensure that the system is interoperable with existing image systems and will provide insight into the pipeline from data acquisition through analysis and curation.
+
+_Twitter description:
+>_The VRE-CI project aims to enhance collaboration among clinicians and medical image analysis researchers by providing access to common resources such as: information, image scans and algorithms, e.g. those developed to outline semi-automatically abnormalities in images. One of the critical aspects when collaborating with clinicians is time, due to their demanding jobs, researchers need to schedule meetings with clinicians at the Hospital where results are presented and feedback requested. This project aims to allow clinicians to be aware of which tools are being developed, use these tools, in a research context, and provide feedback about their performance online using a desktop portal.
+
+## Project Introductions ##
+A 30 Second introduction at the INF11 Programme meeting @ Leicester University, July 2009, can be seen at: http://www.youtube.com/watch?v=XXX (YouTube)
+
+A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: http://vimeo.com/9855648
+
+## Project Details ##
+  * Host Institution: University of Oxford, OERC
+  * VRE3/Strands: Theme-Frameworks
+  * Duration: 18 months
+  * Start Date: 1 May 2009
+  * End Date: 28 February 2011
+  * Amount Awarded to Project: £152,738.00
+
+## Project Team ##
+  * Project Manager: Maria Susana Avila Garcia, susana.garcia@oerc.ox.ac.uk, 01865 610702
+  * Principal Investigator: Prof Anne E. Trefethen.
+  * Co-Investigator: Dr. Vicente Grau.
+  * Developer: Xin Xiong, Charles Crichton and Andrew Tsui.
+  * Admin:
+  * Partners: Microsoft Research.
+  * Consultants:
+
+## Documentation ##
+  * [Project plan](http://vreri.googlecode.com/files/XXX) _To be uploaded in Downloads by Project_
+  * Code Repository: TBC - Link
+  * Technical Documentation: TBC
+  * End User Documentation: TBC
+  * Analytics Engine: TBC
+  * Project Website: http://www.oerc.ox.ac.uk/research/vre-ci
+  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+  * JISC website: http://www.jisc.ac.uk/whatwedo/programmes/vre/civre.aspx

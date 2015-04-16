@@ -1,0 +1,31 @@
+# ViCoVRE #
+**_Summary_**
+
+## Project Summary ##
+This project will create a flexible tool for converting Access Grid recordings (made with the VRE Projects CREW and Memetic) to and from standard common formats, such as MPEG-4, MPEG-2 and avi.
+
+## Project Introductions ##
+A 30 second introduction to the project given at the VRE3 kickoff meeting @Leicester,  August 2009, can be seen at: http://www.youtube.com/watch?v=s2-2qZPebZY (Youtube)
+
+A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: http://vimeo.com/9855589
+
+## Project Details ##
+  * Host Institution: Manchester University
+  * VRE3/Strands: Theme-Tools
+  * Duration: 6+4 months
+  * Start Date: 1 April 2009
+  * End Date: 30 November 2010
+  * Amount Awarded to Project: £xxx,xxx.00
+
+## Project Team ##
+  * Product Owner: Andrew Rowley, Martin Turner
+  * Developer:
+  * Admin:
+  * Partners:
+  * Consultants:
+
+## Documentation ##
+  * [Project plan](http://wiki.rcs.manchester.ac.uk/community/vre3?action=AttachFile&do=get&target=ViCoVREProjectPlan11.pdf)
+  * Project Website: http://wiki.rcs.manchester.ac.uk/community/vre3
+  * JISC website: http://www.jisc.ac.uk/whatwedo/programmes/vre.aspx
+  * Final Report: http://wiki.rcs.manchester.ac.uk/community/vre3?action=AttachFile&do=get&target=ViCoVREfinalreport_b.pdf

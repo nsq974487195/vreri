@@ -1,0 +1,53 @@
+# MEGStream #
+**_Streamlining the processing of MEG research data_**
+
+## Project Summary ##
+The Aston Brain Centre is home to the Wellcome Trust Laboratory for Magnetoencephalographic (MEG) studies and a number of research groups each with the aim of visualising brain function on a millisecond by millisecond time scale. These scans are not currently stored in a systematic way that enables them to be reused in new research projects or fully for clinical diagnosis.
+
+The project will:
+  * Build taverna workflows to automate the process of creating and analysing MEG images. This will provide a standard means of processing the data, improving its provenance and reducing the time needed to train new researchers and collaborators.
+  * Embedding ICT into the research process by extending the use of portable technology such as netbooks and the use of VDI within the physical labs.
+  * Providing a standard means of interacting with the data to support teaching, access by NHS staff and promote reproducible research.
+  * The workflows will be published to JISC's myexperiment.org VRE and other neuroimaging research groups will be encouraged to use and enhance them. The workflows will also make it easier for other research groups in and beyond Aston to use the data in other research projects.
+  * It is the intention to present these workflows and techniques in conferences and to publish them to the neuroimaging community to encourage re-use and continual improvement.
+
+**Twitter description**
+Streamlining the processing of magnetic brain imaging data for research and medicine using Taverna workflows
+
+## Video introduction ##
+**Please find the 3 minute introduction to the MEGStream project, from the VRERI Kick-off meeting at: http://vimeo.com/9854260**.
+You can find the presentation in the Downloads section of this site.
+
+## Latest blog posts ##
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="http://www.aston.ac.uk/megstream.rss" width="600px" height="340px" border="0"/>
+
+## Questions this project answers ##
+
+**User Question**
+Can I use MEG in my research or clinical setting? How easy is it to use MEG techniques?
+
+**Community Question**
+How can we track our data through the MEG process? How can we reuse data from different MEG studies?
+
+## Project Details ##
+  * Host Institution: Aston Brain Centre, Information Systems Aston
+  * VRERI/Strands:  Theme-Resourcemgt / Theme-Experimentation / Theme-CommsnColl / Theme-MgtnAdmin
+  * Duration: 6 months
+  * Start Date: Jan 2010
+  * End Date: July 2010
+  * Amount Awarded to Project: £47950.77
+
+## Project Team ##
+  * Product Owner: Ian Holliday, i.e.holliday@aston.ac.uk, 0121 204 4064
+  * Developer: Craig Everitt
+  * Admin: N M
+
+## Documentation ##
+  * [Original bid](http://vreri.googlecode.com/files/Bid01%20MEGStream.pdf)
+  * Code Repository: [http://code.google.com/p/megstream/](http://code.google.com/p/megstream/)
+  * Technical Documentation: [http://code.google.com/p/megstream/w/list](http://code.google.com/p/megstream/w/list)
+  * End User Documentation: http://code.google.com/p/megstream/wiki/Documentation
+  * Bug tracking for feedback: [http://code.google.com/p/megstream/issues/list](http://code.google.com/p/megstream/issues/list)
+  * Project Website: [http://www.aston.ac.uk/megstream](http://www.aston.ac.uk/megstream/)
+  * RSS Feed From Project Blog: [http://www.aston.ac.uk/megstream.rss](http://www.aston.ac.uk/megstream.rss)
+  * Final Blog Post: http://www1.aston.ac.uk/lhs/research/centres-facilities/brain-centre/facilities-clinical-services/meg-studies/streamlining-meg/blog/?blogpost=237

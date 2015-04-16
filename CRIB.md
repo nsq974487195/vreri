@@ -1,0 +1,46 @@
+# CRIB #
+**_Collaborative Research in Business_**
+
+## Project Summary ##
+[This project supports management and business professionals in university departments and related organisations who are the essential links between research and commerce, i.e. they are engaged in managing the process of Knowledge Exchange.
+
+These groups develop best practice in management and liaise with other stakeholders such as the Regional Development Agencies. CRIB focuses on their requirements, and demonstrates how a Virtual Research Environment can be extended to include management research and practice with tools enabling more effective collaboration, sharing of information and accelerating their progress through the research lifecycle.
+
+Our key challenge is to provide a Web-based VRE platform using existing tools to enhance collaboration. This platform will support the opportunity for staff in business and management schools to change their relationships both with each other and with the groups they support. The project has chosen Sakai as it is already familiar to users at the partner institutions and the project partners already have experience of enhancing the current tools in Sakai. Examples of this enhancement include further development and integration of tools such as the Sakai Profile-2 tool and BRII.
+
+Other tools are required to help change the relationships staff have with on-line scholarly information, such as the use of the CREE cross search tool, and to enhance the use of such information as a fundamental part of the Knowledge Exchange agenda. ]
+
+_PROJECTS Please add:
+  * A short description of each of the cases, described in the project,
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Questions this project answers (end user problems it solves):
+    * ser Question (what itch does it scratch):
+    * ommunity Question (how does this change the way things were done)_
+
+## Project Introductions ##
+A 3 minute update on the project for the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: http://www.ictresearch.org/projects/crib/crib3.html
+
+## Project Details ##
+  * Host Institution: Lancaster University
+  * VRE3/Strands: Theme-Frameworks
+  * Duration: 18 months
+  * Start Date: 1 May 2009
+  * End Date: 31 October 2010
+  * Amount Awarded to Project: £xxx,xxx.00
+
+## Project Team ##
+  * Product Owner: Robert Crouchley, r.crouchley@lancaster.ac.uk, office 01524593161
+  * Developer:
+  * Admin:
+  * Partners:
+  * Consultants:
+
+## Documentation ##
+  * [Project plan](http://vreri.googlecode.com/files/XXX) _To be uploaded in Downloads by Project_
+  * Code Repository: TBC - Link
+  * Technical Documentation: TBC
+  * End User Documentation: TBC
+  * Analytics Engine: TBC
+  * Project Website: TBC
+  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+  * JISC website: http://www.jisc.ac.uk/whatwedo/programmes/vre/crib.aspx

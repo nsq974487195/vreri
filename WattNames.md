@@ -1,0 +1,43 @@
+# WattNames #
+**_Case study and trial implementation to uniquely identify Heriot-Watt University researchers_**
+
+## Project Summary ##
+Case study and trial implementation to uniquely identify Heriot-Watt University researchers with resolvable Uniform Resource Identifiers (URIs) to enable their reusability from the Names authority service project and other web applications
+
+
+_PROJECTS Please add:
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Questions this project answers (end user problems it solves):
+    * ser Question (what itch does it scratch):
+    * ommunity Question (how does this change the way things were done)_
+
+
+## Video introduction ##
+**Please find the 3 minute introduction to the WattNames project, from the VRERI Kick-off meeting at: http://vimeo.com/9753593**
+
+
+## Project Details ##
+  * Host Institution: Heriot Watt University, Institute for Computer Based Learning (ICBL)
+  * VRERI/Strands:  Theme-Resourcemgt /  Theme-MgtnAdmin
+  * Duration: 6 months
+  * Start Date: 15/1/2010
+  * End Date: 15/7/2010
+  * Amount Awarded to Project: £ 26,925
+
+## Project Team ##
+  * Product Owner: Roger Rist, R.J.Rist@hw.ac.uk, 0131 451 3287
+  * Developer:
+  * Admin:
+  * Partners:
+  * Consultants:
+
+## Documentation ##
+  * [Original Bid](http://vreri.googlecode.com/files/Bid15%20WattNames.pdf)
+  * Code Repository: TBC - Link
+  * Technical Documentation: TBC
+  * End User Documentation: TBC
+  * Analytics Engine: TBC
+  * Project Website: http://www.macs.hw.ac.uk/~mthljr/wattnames.html
+  * Project Blog: http://wattnames.wordpress.com/
+  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+  * Final Blog Post: http://wattnames.wordpress.com/2011/06/20/final-progress-post/

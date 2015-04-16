@@ -1,0 +1,57 @@
+# OpenPSIPearl #
+**_combining Governmental administrative datasets_**
+
+## Project Summary ##
+OpenPSIPearl is a collaboration between the University of Southampton (UoS), the UK Government, and the Office of Public Sector Information (OPSI) part of The National Archive and leading academic research groups with an interest in the use of UK government administrative datasets in combination with specifically provisioned survey data.
+
+This OpenPSIPearl project will produce three deliverables;
+  1. a national scale exemplar of a 'linked data' research challenge to excite the UK research community. It will be grounded in a relevant research policy question of understanding the effect of positive activities and opportunities within the locality of UK schools (content aggregation);
+  1. an understanding of how provision of UK government 'linked data' will effect the methods and best practice in research use of administrative data in combination with additional survey data (critique of methods) and;
+  1. sustained collaboration via an ongoing articulation on the needs of the UK Research community for, and provision by the Government of non-personl Public Sector Information using the previously JISC Rapid Innovation funded OpenPSIportal (http://www.openpsi.org/).
+
+## Video introduction ##
+**Please find the 3 minute introduction to the OpenPSIPearl project, from the VRERI Kick-off meeting at: http://vimeo.com/9854591**
+You can find the presentation in the Downloads section of this site.
+
+## Twitter description ##
+Help researchers make best use of UK Government actions to make more data available as linked data on the web.
+
+## What end user problems will we look to solve ##
+It is anticipated that using linked administrative data will enhance methods for the
+analysis of survey data and to develop methods that can overcome problems
+commonly associated with survey data.
+
+In terms of data linkage (also known by this community as record linkage) we anticipate that web scale linking will overcome some of the challenging problems faced in the past with small scale file to file based record linkage.
+
+## How will it change the way things were done by Community ##
+It has been recognised by the Community that;
+  1. data (‘old definition’) - rectangular dataset of numbers
+  1. data (‘new definition’) - information, survey data, administrative data, additional resources (video, texts, voice)
+
+The community has a tradition of master data management with linking new transactions/events to master records. The linked data web should provide a much broader and richer context of a master data file with shared contribution of additionally linked new data.
+
+## Project Details ##
+  * Host Institution: University of Southampton, School of Electronics and Computer Science
+  * VRERI/Strands:  Theme-Resourcemgt / Theme-Experimentation
+  * Duration: 6 months
+  * Start Date: 01/02/2010
+  * End Date: 31/07/2010
+  * Amount Awarded to Project: £49.633
+
+## Project Team ##
+  * Product Owner: John Darlington, jd@ecs.soton.ac.uk, 02380-599045
+  * Developer:  	Mario Hernandez (mhc@ecs.soton.ac.uk), Manuel Salvadores (ms8@ecs.soton.ac.uk), Landong Zuo (lz@ecs.soton.ac.uk), Benedicto Rodriguez (br205r@ecs.soton.ac.uk)
+  * Admin:
+  * Partners: Office of Public Sector Information (OPSI), part of The National Archives, The Institute of Education, University of
+London, The Social Policy Research Unit,York University
+  * Consultants:
+
+## Documentation ##
+  * [Original Bid](http://vreri.googlecode.com/files/Bid36%20OpenPSIPearl.pdf)
+  * Code Repository: https://forge.ecs.soton.ac.uk/plugins/scmsvn/viewcvs.php/branches/openPSI/?root=swci
+  * Technical Documentation: TBC
+  * End User Documentation: http://code.google.com/p/vreri/wiki/OpenPSIPearl
+  * Analytics Engine: TBC
+  * Project Website: http://www.openpsi.org/
+  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+  * Final Blog Post: see comment (11/11/2010) below

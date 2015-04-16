@@ -1,0 +1,49 @@
+# CritterVRE #
+**_Aggregation and Mash-Up of CREW and Twitter_**
+
+## Project Summary ##
+Twitter is increasingly being used during academic conferences to exchange comments and opinions about keynotes and talks. A continual problem of the resulting data from these ad hoc commentaries is that after
+the event they have little or no context meaning so potentially valuable observations are effectively lost.
+
+This is very ephemeral data but we believe it has long term use.
+Technology arising from the CREW (Virtual Research Environment) project supports the recording of collaborative events, such as conferences, seminars or workshops (linking the audio, video and presenter’s computer screen). This allows the event to be viewed by people unable to attend in person and also provides a rich, persistent, searchable record. Additionally, when the event is recorded, participants can provide live time-stamped annotations which allow a participatory, contextual record to be made in addition to the formal part of the presentation.
+
+All of the event data including the live annotation data becomes searchable using metadata tags and semantic web technologies allowing researchers to data mine across presentations for parts of presentations relevant to their interests.
+
+This project proposes to aggregate and contextualise comments from Twitter for events, by harvesting and storing them directly within the CREW VRE database in addition to CREW’s in-built functionality allowing a still richer breadth and depth of annotations. Users will now also be able to see the comments in the contextof the exact part of the talk about which they were made. They will be able to search for parts of the presentation using the text within these comments, and then view the recording of the presentation from the point at which the relevant comment was made. The annotations will also be exposed to allow Google search to show results that replay the video from the point at which the annotation was indexed. Twitter annotations will also be harvested for GPS information allowing the location or locations of the event to be automatically obtained and displayed within CREW.
+
+## Video introduction ##
+**Please find the 3 minute introduction to the CritterVRE project, from the VRERI Kick-off meeting at: http://vimeo.com/9853945**.
+You can find the presentation in the Downloads section of this site.
+
+## Twitter description ##
+#CritterVRE automatically creates Google-searchable links into video-recorded presentations using tweets
+## Questions ##
+### User Question ###
+Avoids needing to use a special interface for adding annotations to recordings, and allows the finding of recordings from within Google search results.
+### Community Question ###
+Will make more annotations available within recordings, and will make recordings more accessible (as they can be searched from Google) and so more useful.
+
+## Project Details ##
+  * Host Institution: University of Manchester, Research Computing Services (RCS),
+  * VRERI/Strands:  Theme-Resourcemgt / Theme-CommsnColl
+  * Duration: 9 months
+  * Start Date: 01/02/2010
+  * End Date: 31/10/2010
+  * Amount Awarded to Project: £52,991.73
+
+## Project Team ##
+  * Product Owner: Dr Andrew Rowley, Andrew.Rowley@manchester.ac.uk, 0161 275 0685
+  * Developer: Dr Mike Jones, Mike.Jones@manchester.ac.uk
+
+## Documentation ##
+  * [Original Bid](http://vreri.googlecode.com/files/Bid25%20CritterVRE.pdf)
+  * [Project Plan](http://vreri.googlecode.com/files/CritterVRE_Projectplan_VRERI_JISC.docx)
+  * Code Repository: http://vicovre.googlecode.com/
+  * Technical Documentation: http://vicovre.googlecode.com/
+  * End User Documentation: http://vicovre.googlecode.com/
+  * Analytics Engine: TBC
+  * Project Website: http://www.rcs.manchester.ac.uk/research/CritterVRE/
+  * XMPP Feed (twitter): n/a
+  * RSS Feed From Project Blog: http://grace.rcs.manchester.ac.uk/vre3/?feed=rss2
+  * Final report: http://wiki.rcs.manchester.ac.uk/community/vre3?action=AttachFile&do=get&target=CritterVREfinalreport_b.pdf

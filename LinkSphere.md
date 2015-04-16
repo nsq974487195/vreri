@@ -1,0 +1,47 @@
+# LinkSphere #
+**_a single virtual interface for searching across all the repositories and collections_**
+
+## Project Summary ##
+[ The University of Reading has a large number of important repositories of archival data and collections of useful information. We will create a unified system that provides a single virtual interface for searching across all the repositories’ and collections, this will not only make the data and information more readily available, but also ensure that all the resources that need to be accessed would be easier to find and interact with.
+
+Within this project we will also integrate a social network for researchers within the University of Reading that will show that such a system can help researchers get to know each other, enable collaboration and ensure that it is possible to work more closely together on cross-disciplinary projects. We believe that it is important that new and existing researchers get to meet each other virtually in a secure environment and also share information about their own research and development too.]
+
+_PROJECTS Please add:
+  * A brief intro to each of the cases you are working on.
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Questions this project answers (end user problems it solves):
+    * ser Question (what itch does it scratch):
+    * ommunity Question (how does this change the way things were done)_
+
+## Project Introductions ##
+A 30 Second introduction at the INF11 Programme meeting @ Leicester University, July 2009, can be seen at:
+http://www.youtube.com/watch?v=hW39sLYjJKM (YouTube)
+
+A 3 minute update on the project at the VRERI Kick-off meeting @ ULU London, February 2010, can be seen at: http://vimeo.com/9855456
+
+
+## Project Details ##
+  * Host Institution: University of Reading
+  * VRE3/Strand: Theme-Interoperability
+  * Duration: 24 months
+  * Start Date: 1 April 2009
+  * End Date: 31 March 2011
+  * Revised End Date: 31 August 2011
+  * Amount Awarded to Project: £xxx,xxx.00
+
+## Project Team ##
+  * Product Owner: Professor Mark Baker, mark.baker@computer.org, office 0118 378 8615
+  * Developer:
+  * Admin:
+  * Partners:
+  * Consultants:
+
+## Documentation ##
+  * [Project plan](http://vreri.googlecode.com/files/XXX) _To be uploaded by Project_
+  * Code Repository: TBC - Link
+  * Technical Documentation: TBC
+  * End User Documentation: TBC
+  * Analytics Engine: TBC
+  * Project Website: http://www.linksphere.org/
+  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC
+  * JISC website: http://www.jisc.ac.uk/whatwedo/programmes/vre/linksphere.aspx

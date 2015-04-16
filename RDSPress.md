@@ -1,0 +1,40 @@
+# RDSPress #
+**_a platform for the collaborative management of research degrees_**
+
+## Project Summary ##
+RDSPress (Research Degree Student WordPress) will develop a platform for the collaborative management of research degrees.
+The platform will be built from WordPress and will be integrated into the Research Degree Framework at Coventry University. The platform will enable students, their supervisors and staff from the research unit to collaborate and communicate effectively no matter where any of them are based. Development of the platform will reduce the current dependency on paper systems, encourage the use of more flexible and richer means of communication, enable supervisors to track the activities and performance of their students more easily and promote good working practices.
+
+_PROJECT Please add:
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Questions this project answers (end user problems it solves):
+    * ser Question (what itch does it scratch):
+    * ommunity Question (how does this change the way things were done):_
+
+## Video introduction ##
+**Please find the 3 minute introduction to the RDSPress project, from the VRERI Kick-off meeting at: http://vimeo.com/9854902**
+You can find the presentation in the Downloads section of this site.
+
+## Project Details ##
+  * Host Institution: Coventry University
+  * VRERI/Strands:  / Theme-CommsnColl / Theme-MgtnAdmin
+  * Duration: 8 months
+  * Start Date: 18/1/2010
+  * End Date: 10/9/2010
+  * Amount Awarded to Project: £26,662
+
+## Project Team ##
+  * Product Owner: David Morris, d.morris@coventry.ac.uk, 07974984023
+  * Developer:
+  * Admin:
+  * Partners:
+  * Consultants:
+
+## Documentation ##
+  * [Original Bid](http://vreri.googlecode.com/files/Bid12%20RDSPress.pdf)
+  * Code Repository: TBC - Link
+  * Technical Documentation: TBC
+  * End User Documentation: TBC
+  * Analytics Engine: TBC
+  * Project Website: http://cuba.coventry.ac.uk/rdspress/
+  * XMPP Feed (twitter): n/a RSS Feed From Project Blog: TBC

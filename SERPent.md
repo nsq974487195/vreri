@@ -1,0 +1,62 @@
+# SERPent #
+**_Secure Epidemiology Research Platform_**
+
+## Project Summary ##
+The aim of this project is to develop a metadata catalogue for epidemiology and public health research studies to support the documentation, preservation, discovery, access, and use of the underlying data. The proposal leverages on the Data Documentation
+Initiative (DDI) metadata specification and underlying industry standard XML technologies, in alignment with national and international recommendations and best practices. The DDI allows for the capture of a wide range of information, from high level study overview to detailed variable level description, and can maintain linkages to reference documentation or analytical research papers. This will greatly facilitate the publication of information on the web and the exchange of metadata with other agencies. The standards based approach will also minimize the overall cost and effort by allowing for the reuse of existing tools.
+
+The core project management team will work closely with researchers on selected use cases, representative of research studies within UCL, to document the data and build the initial catalogue. A small amount of software will need to be developed to allow for the delivery of the metadata in a web-enabled, browsable and searchable form, and for the production of customized reports. It is however anticipated that much of this software can be extended from existing open source projects in the field.
+The project will benefit from the support of the UK Data Archive and interaction with STFC.
+
+External consultancy services from Metadata Technology Ltd will be employed to assist with:
+  * Initial scoping and requirements assessment
+  * Training and guidance on metadata preparation and the use of DDI based tools
+  * General system design and development
+
+Deliverables and outcomes include:
+  * the adoption of a common framework across the UCL Faculty of Biomedical Sciences for metadata management & exchange;
+  * the creation of a metadata catalogue designed to accommodate the needs of secure data enclave services;
+  * the integration of DDI based toolkit for the documentation of studies;
+  * the development of training materials and guidelines to promote wider use of statistical metadata standards in support of effective metadata exchange;
+  * the availability of DDI documented studies for selected use cases;
+  * wide dissemination of the lessons learned in metadata management of complex and multidimensional public health datasets;
+  * promotion of transparent information governance arrangements to inform all stakeholders;
+  * an effective network of database managers working in epidemiology and public health at UCL.
+
+## Short Description ##
+Metadata catalogue for epidemiology research to support the documentation, preservation,
+discovery, access, and use of underlying data.
+
+## Video introduction ##
+**Please find the 3 minute introduction to the SERPent project, from the VRERI Kick-off meeting at: http://vimeo.com/9855024**
+You can find the presentation in the Downloads section of this site.
+
+## Questions ##
+Management of epidemiological data is time consuming and difficult. This is particularly true when a wide range of data sources are combined or data is collected over a long period of time. Data managers have historically developed pragmatic solutions to assist them in this task however there are a set of emerging standards and tools that may help. This project aims to examine the applicability of some of these tools and understand the practical obstacles that may exist to their wider adoption. In particular, DDI (the Data Documentation Initiative) is a standard that has been used successully for the management of social research surveys. Can DDI be applied to epidemiological datasets and are there any specific extensions or refinements that are needed?
+
+## Project Details ##
+  * Host Institution: Institute of Child Health, University College London
+  * VRERI/Strands:  Theme-Resourcemgt / Theme-CommsnColl / Themes-MgtnAdmin
+  * Duration: 9 months
+  * Start Date: 25/01/2010
+  * End Date: 24/10/2010
+  * Amount Awarded to Project: £44,971
+
+## Project Team ##
+  * Product Owner: Dr Tito Castillo, t.castillo@ich.ucl.ac.uk, 020 7905 2146
+  * Project Manager: Anthony Thomas, athomas@ich.ucl.ac.uk, 020 7905 2212
+  * Admin: Rich Hutchinson, r.hutchinson@ich.ucl.ac.uk, 020 7905 2155
+  * Partners:
+    * Rachel Knowles, Epidemiologist, UK Collaborative Study of Congenital Heart Defects, UCL
+    * Pat Tookey, Epidemiologist, National Study of HIV in Pregnancy and Childhood, UCL
+    * Aida Sanchez, Data Manager, Whitehall II Study, Epidemiology & Public Health, UCL
+    * Spiros Denaxas, Data Manager, Cardiovascular disease research Linking Bespoke studies and Electronic Health records consortium and the Optimizing Management of Angina study, Epidemiology & Public Health, UCL
+    * Andy Ryan, Data Manager, United Kingdom Collaborative Trial of Ovarian Cancer Screening, Gynaecological Cancer Research Centre, UCL
+  * Consultants: Pascal Heus, External Consultant, Metadata Technology Ltd
+
+## Documentation ##
+  * [Original Bid](http://vreri.googlecode.com/files/Bid41%20SERPent.pdf)
+  * Code Repository: https://www.assembla.com/wiki/show/serpent
+  * Project Website: http://wiki.ucl.ac.uk/display/ICHPaedUniSERPent/Secure+Epidemiology+Research+Platform+%28SERPent%29
+  * Final Blog Post: https://wiki.ucl.ac.uk/display/ICHPaedUniSERPent/Completion+Report
+  * [Final Report](http://vreri.googlecode.com/files/SERPent%20Final%20Report.pdf)

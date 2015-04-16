@@ -1,0 +1,37 @@
+# EMBRaCE #
+**_E-Managed Business Relationships and Cohesive Environments_**
+
+## Project Summary ##
+This project explores mechanisms for the development of large scale e-communities of owner-managers of smaller enterprises.
+The e-communities we wish to develop will be of use to knowledge transfer activities between public sector and businesses and will be particularly useful for development of public policy and research agendum by various public policy and research institutions. This proposal looks at extensions to the Northwest Regional Development Agency’s LEAD NW programme in order to quicken knowledge exchange (KE) between business and public sectors.
+
+We focus on evaluating the attributes of the service from a business owner’s perspective and then determine feasibility of uncovered options that would lead to the development of an online e-community of over 1,250 business owners that are engaged on the Agency’s LEAD NW Programme. Using Sakai as the e-community development tool, we examine how large numbers of Owner Managers can be e-managed to become part of a cohesive e-community of business leaders advising public sector on urgent matters of the day, quickly, securely and efficiently; but also becoming a potent self supportive and cohesive voice for smaller businesses.
+
+_PROJECTS Please add:
+  * Twitter description (120 characters laymen description, e.g. how would you describe this to your neighbour and not bore them):
+  * Questions this project answers (end user problems it solves):
+    * ser Question (what itch does it scratch):
+    * ommunity Question (how does this change the way things were done:_
+
+## Video introduction ##
+**Please find the 3 minute introduction to the EMBRaCE project for the VRERI Kick-off meeting at: http://www.ictresearch.org/projects/embrace/embrace.html**
+
+## Project Details ##
+  * Host Institution: Lancaster University, Lancaster University Management School
+  * VRERI/Strands:  Theme-BCE
+  * Duration: 9 months
+  * Start Date: 01/02/2010
+  * End Date: 31/10/2010
+  * Amount Awarded to Project: £67,535
+
+## Project Team ##
+  * Product Owner: Robert Crouchley, r.crouchley@lancaster.ac.uk, 01524 593161
+  * Developer:
+  * Admin:
+  * Partners: Northwest Regional Development Agency
+  * Consultants:
+
+## Documentation ##
+  * [Original Bid](http://vreri.googlecode.com/files/Bid23%20EMBRaCE.pdf)
+  * Project Website: TBC
+  * [Final Report](http://vreri.googlecode.com/files/AR3_embrace_eoa.pdf)

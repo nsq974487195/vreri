@@ -1,0 +1,44 @@
+# OpenImpact #
+**_Collecting and Communicating Evidence of Research Impact_**
+
+## Project Summary ##
+Open Impact is a project to help collect evidence of high impact research that has been undertaken in UK universities and to provide it to a range of stakeholders (government,
+funders, press etc) through an independent third party agency (a learned society). The project will use a specific discipline (Computer Science) mediated through a particular society (the
+British Computer Society) as an exemplar.
+
+  * Twitter description: This project helps researchers tell the public why their work is remarkable and indispensable.
+  * Questions this project answers: How can we piece together coherent stories about research impact and how can we do it without distracting researchers from doing research?
+  * User Question: How can I increase my profile and sell my expertise, to my colleagues, industry, funders and the public?
+  * Community Question: Can we build on recent initiatives to collect and manage research outputs (repositories) and research administration information (CRIS systems) to better market our researchcapacity and effectiveness to industry, government and the British taxpayer/voters?
+
+## Video introduction ##
+**Please find the 3 minute introduction to the OpenImpact project, from the VRERI Kick-off meeting at: http://vimeo.com/9854503**
+You can find the presentation in the Downloads section of this site.
+
+## Project Details ##
+  * Host Institution: University of Southampton, School of Electronics and Computer Science
+  * VRERI/Strands:  Theme-Resourcemgt / Theme-BCE
+  * Duration: 9 months
+  * Start Date: 01/01/2010
+  * End Date: 31/09/2010
+  * Amount Awarded to Project: £71,781
+
+## Project Team ##
+  * Product Owner: Dr Leslie Carr, lac@ecs.soton.ac.uk, http://users.ecs.soton.ac.uk/lac
+  * Developer: Patrick McSweeney, pm5@ecs.soton.ac.uk, http://users.ecs.soton.ac.uk/pm5
+  * Admin: Dr Mark Weal, mjw@ecs.soton.ac.uk, http://users.ecs.soton.ac.uk/mjw
+  * Partners: BCS Academy of Computing
+  * Consultants:
+
+## Documentation ##
+  * [Original Bid](http://vreri.googlecode.com/files/Bid35%20OpenImpact.pdf)
+  * Code Repository: TBC - Link
+  * Technical Documentation: TBC
+  * End User Documentation: TBC
+  * Analytics Engine: TBC
+  * Project Website: TBC
+  * XMPP Feed (twitter): n/a
+  * Twitter Feed: http://twitter.com/openimpact
+    * Hashtag: #oimpact
+  * Project Blog: http://blogs.ecs.soton.ac.uk/openimpact/
+    * RSS Feed: http://blogs.ecs.soton.ac.uk/openimpact/feed/
